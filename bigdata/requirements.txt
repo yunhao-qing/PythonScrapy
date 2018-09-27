@@ -1,0 +1,9 @@
+jedi==0.10.0
+lxml==3.7.3
+mysql-connector==2.1.4
+pika==0.10.0
+pymongo==3.4.0
+pyparsing==2.1.10
+PyYAML==3.12
+requests==2.13.0
+six==1.10.0

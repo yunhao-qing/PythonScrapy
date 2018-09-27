@@ -1,0 +1,14 @@
+﻿0 3 * * * /etc/init.d/future start
+0 1 * * * /etc/init.d/element14 start
+0 2 * * * /etc/init.d/chip1stop start
+0 */10 * * * /etc/init.d/matches start
+
+# ti relaated
+0 9 * * * /usr/bin/python3.6 /data/ti/ti.py
+
+
+# big data related
+*/5 * * * * /usr/bin/python3.6 /data/bigdata/server/monitor/assistant.py proxy_ip_count 
+0 * * * * /usr/bin/python3.6 /data/bigdata/server/monitor/assistant.py digikey_count
+
+*/5 * * * * /usr/bin/python3.6 /data/bigdata/server/monitor/assistant.py proxy_init_mongo

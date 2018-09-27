@@ -1,0 +1,5 @@
+rabbitmq_server = {
+    'host':  'db1.ichunt.com',
+    'user':  'admin',
+    'password': '123456'
+}

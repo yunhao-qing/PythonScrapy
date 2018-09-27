@@ -1,0 +1,83 @@
+## proxy_ip
+mongo_proxy_ip:
+    host: 'db1.ichunt.com'
+    port: 27017
+    database: 'ichunt'
+
+# microchip
+mysql_company:
+    host: 'db1.ichunt.com'
+    port: 3306
+    user: 'ichunt'
+    passwd: 'ichunt'
+    db: 'company'
+
+mongo_company:
+    host: 'db1.ichunt.com'
+    port: 27017
+    database: 'ichunt'
+
+# digikey
+mysql_digikey:
+    host: 'db1.ichunt.com'
+    port: 3306
+    user: 'ichunt'
+    passwd: 'ichunt'
+    db: 'digikey'
+
+mongo_digikey:
+    host: 'db1.ichunt.com'
+    port: 27017
+    database: 'ichunt'
+
+# verical
+mysql_verical:
+    host: 'db1.ichunt.com'
+    port: 3306
+    user: 'ichunt'
+    passwd: 'ichunt'
+    db: 'verical'
+
+mongo_verical:
+    host: 'db1.ichunt.com'
+    port: 27017
+    database: 'ichunt'
+    
+# avnet 
+mysql_avnet:
+    host: 'db1.ichunt.com'
+    port: 3306
+    user: 'ichunt'
+    passwd: 'ichunt'
+    db: 'avnet'
+
+mongo_avnet:
+    host: 'db1.ichunt.com'
+    port: 27017
+    database: 'ichunt'
+    
+ # alliedelec
+mysql_alliedelec:
+    host: 'db1.ichunt.com'
+    port: 3306
+    user: 'ichunt'
+    passwd: 'ichunt'
+    db: 'alliedelec'
+
+mongo_alliedelec:
+    host: 'db1.ichunt.com'
+    port: 27017
+    database: 'ichunt'
+
+ # rsonline
+mysql_rsonline:
+    host: 'db1.ichunt.com'
+    port: 3306
+    user: 'ichunt'
+    passwd: 'ichunt'
+    db: 'rs'
+
+mongo_rsonline:
+    host: 'db1.ichunt.com'
+    port: 27017
+    database: 'ichunt'

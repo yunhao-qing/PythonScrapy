@@ -1,0 +1,2 @@
+0 0 * * *　/usr/bin/python3.6 /home/root/bigdata/client/send_cron/digikey/send_get_all_categories.py > /data/log/bigdata/cron/digikey_send_get_all_categories.log
+0 0 * * *　/usr/bin/python3.6 /home/root/bigdata/client/send_cron/verical/send_get_all_categories.py > /data/log/bigdata/cron/verical_send_get_all_categories.log

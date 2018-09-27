@@ -1,0 +1,4818 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head id="ctl00_header"><title>
+	供应商列表 | Mouser 中国
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta id="ctl00_metaDesc" name="Description" content="Mouser供应电子元器件供应商线卡。Mouser是多家业界领先电子元器件供应商的授权经销商。" /><meta id="ctl00_metaKeywords" name="Keywords" content="电子元器件供应商, 电子零件供应商, mouser线卡, mouser线卡, mouser供应商线卡, mouser制造商线卡" /><meta name="verify-v1" content="bhrmPa5uloYbiuM+lDu4z+y0qUGeKGW5FfFMprQAqlU=" />
+<!-- BASE STYLE SHEET -->
+<link rel="shortcut icon" href="../favicon.ico" /><link rel="alternate" type="application/rss+xml" title="RSS" href="../rss/rss.xml" />
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="../css/ie7.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="../css/ie8.css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="../css/ie9.css" />
+<![endif]-->
+<script type="text/javascript">
+function OpenBackordered(URL) {
+var MsgWindow;
+MsgWindow = window.open(URL, "MsgWindow", "scrollbars=1,height=500,width=650,menubar=0,resizable=1");
+}
+</script>
+<script type="text/javascript"> var _paq = _paq || []; _paq.push(['trackPageView']); _paq.push(['enableLinkTracking']); (function() { var u="//msr.chinalytics.cn/"; _paq.push(['setTrackerUrl', u+'/js/tracker.php']); _paq.push(['setSiteId', 6]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'js/tracker.php'; s.parentNode.insertBefore(g,s); })(); </script> <noscript><p><img src="//msr.chinalytics.cn//js/tracker.php?idsite=6" style="border:0;" alt="" /></p></noscript>
+<script type="text/javascript"> var _gaq = _gaq || [];var pluginUrl ='//www.google-analytics.com/plugins/ga/inpage_linkid.js';_gaq.push(['_require', 'inpage_linkid', pluginUrl]); _gaq.push(['_setAccount', "UA-521079-1"]);_gaq.push(['_setDomainName', "mouser.cn"]);_gaq.push(['_setAllowLinker', true]);_gaq.push(['_setAllowAnchor', true]);_gaq.push(["_setCustomVar",1,"Language","zh-CN",3]);_gaq.push(["_setCustomVar",30,"s35h","1P2AXQLX4qVancuCZVPuPfqonZEM7NKhXQPxtKxfEk4=",2]);_gaq.push(["_setCustomVar",31,"Cart","ec8dc582-f257-4214-90e7-7c107a9b11c4",2]);
+_gaq.push(["_setCustomVar",15,"TriColor PO1010","14AA127AA250AA96",2]);
+_gaq.push(["_setSiteSpeedSampleRate", 10]);
+_gaq.push(["_trackPageview"]);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-521079-20', {'cookieDomain': 'mouser.cn','allowLinker': true});
+
+ga('set','dimension1','zh-CN');
+ga('set','dimension30','1P2AXQLX4qVancuCZVPuPfqonZEM7NKhXQPxtKxfEk4=');
+ga('set','dimension31','ec8dc582-f257-4214-90e7-7c107a9b11c4');
+ga('set','dimension13','14AA127AA250AA96');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript">var _neo4jQS = "https%3a%2f%2fperf.mouser.com%2fmm%2fimages%2fN4JMM.gif%3frnc%3d744e7465-0e31-42a2-85b6-58d6cc698cc0%26bb%3d6eDVMnRUfw3byJgY%252bU0%252b%252fKVTJdU1akUNa3FAYThfnXpK6mhMIv0%252bpg%253d%253d%26s35h%3d1P2AXQLX4qVancuCZVPuPfqonZEM7NKhXQPxtKxfEk4%253d%26uc%3d5c804d37-0687-4482-a7e6-1a4e6f485707%26cc%3dec8dc582-f257-4214-90e7-7c107a9b11c4%26lc%3dzh-CN%26pp%3dhttp%25253a%25252f%25252fwww.mouser.cn%25252fnewsuppliers%25252f";
+</script>
+<script src='../flash/js/LivePerson.js' type="text/javascript"></script>
+<link href="http://www.mouser.cn/supplierpage/" rel="canonical" content="http://www.mouser.cn/supplierpage/" /><meta http-equiv="content-language" content="zh-cn" /><meta name="viewport" content="width=1000, initial-scale=1" /><link href="../css/style.axd?v=13.9.20170317.1&amp;type=css&amp;fileSet=CSS_Base&amp;lang=zh-CN" rel="stylesheet" type="text/css" /><link href="../css/style.axd?v=13.9.20170317.1&amp;fileSet=Css_HTMLContent&amp;type=css&amp;lang=zh-CN" rel="stylesheet" type="text/css" /><link rel="alternate" hreflang="es-AR" href="http://ar.mouser.com/supplierpage/" /><link rel="alternate" hreflang="de-AT" href="http://www.mouser.at/supplierpage/" /><link rel="alternate" hreflang="en-AU" href="http://au.mouser.com/supplierpage/" /><link rel="alternate" hreflang="fr-BE" href="http://www.mouser.be/supplierpage/" /><link rel="alternate" hreflang="en-BG" href="http://www.mouser.bg/supplierpage/" /><link rel="alternate" hreflang="pt-BR" href="http://br.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-CA" href="http://ca.mouser.com/supplierpage/" /><link rel="alternate" hreflang="de-CH" href="http://www.mouser.ch/supplierpage/" /><link rel="alternate" hreflang="es-CL" href="http://www.mouser.cl/supplierpage/" /><link rel="alternate" hreflang="zh-Hans-CN" href="http://www.mouser.cn/supplierpage/" /><link rel="alternate" hreflang="es-CO" href="http://co.mouser.com/supplierpage/" /><link rel="alternate" hreflang="es-CR" href="http://www.mouser.co.cr/supplierpage/" /><link rel="alternate" hreflang="cs-CZ" href="http://cz.mouser.com/supplierpage/" /><link rel="alternate" hreflang="de-DE" href="http://www.mouser.de/supplierpage/" /><link rel="alternate" hreflang="en-DK" href="http://www.mouser.dk/supplierpage/" /><link rel="alternate" hreflang="es-DO" href="http://www.mouser.do/supplierpage/" /><link rel="alternate" hreflang="es-EC" href="http://www.mouser.ec/supplierpage/" /><link rel="alternate" hreflang="en-EE" href="http://www.mouser.ee/supplierpage/" /><link rel="alternate" hreflang="es-ES" href="http://www.mouser.es/supplierpage/" /><link rel="alternate" hreflang="en-FI" href="http://www.mouser.fi/supplierpage/" /><link rel="alternate" hreflang="fr-FR" href="http://www.mouser.fr/supplierpage/" /><link rel="alternate" hreflang="en-GB" href="http://www.mouser.co.uk/supplierpage/" /><link rel="alternate" hreflang="en-GR" href="http://gr.mouser.com/supplierpage/" /><link rel="alternate" hreflang="es-GT" href="http://www.mouser.com.gt/supplierpage/" /><link rel="alternate" hreflang="zh-Hant-HK" href="http://www.mouser.hk/supplierpage/" /><link rel="alternate" hreflang="es-HN" href="http://www.mouser.hn/supplierpage/" /><link rel="alternate" hreflang="en-HR" href="http://hr.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-HU" href="http://hu.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-ID" href="http://www.mouser.co.id/supplierpage/" /><link rel="alternate" hreflang="en-IE" href="http://www.mouser.ie/supplierpage/" /><link rel="alternate" hreflang="en-IL" href="http://www.mouser.co.il/supplierpage/" /><link rel="alternate" hreflang="en-IN" href="http://www.mouser.in/supplierpage/" /><link rel="alternate" hreflang="it-IT" href="http://www.mouser.it/supplierpage/" /><link rel="alternate" hreflang="ja-JP" href="http://www.mouser.jp/supplierpage/" /><link rel="alternate" hreflang="ko-KR" href="http://kr.mouser.com/supplierpage/" /><link rel="alternate" hreflang="de-LI" href="http://www.mouser.li/supplierpage/" /><link rel="alternate" hreflang="fr-LU" href="http://www.mouser.lu/supplierpage/" /><link rel="alternate" hreflang="es-MX" href="http://www.mouser.mx/supplierpage/" /><link rel="alternate" hreflang="en-MY" href="http://my.mouser.com/supplierpage/" /><link rel="alternate" hreflang="nl-NL" href="http://nl.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-NO" href="http://no.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-NZ" href="http://nz.mouser.com/supplierpage/" /><link rel="alternate" hreflang="es-PE" href="http://www.mouser.pe/supplierpage/" /><link rel="alternate" hreflang="en-PH" href="http://www.mouser.ph/supplierpage/" /><link rel="alternate" hreflang="en-PL" href="http://pl.mouser.com/supplierpage/" /><link rel="alternate" hreflang="es-PR" href="http://www.mouser.pr/supplierpage/" /><link rel="alternate" hreflang="pt-PT" href="http://pt.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-RO" href="http://ro.mouser.com/supplierpage/" /><link rel="alternate" hreflang="ru-RU" href="http://ru.mouser.com/supplierpage/" /><link rel="alternate" hreflang="sv-SE" href="http://www.mouser.se/supplierpage/" /><link rel="alternate" hreflang="en-SG" href="http://www.mouser.sg/supplierpage/" /><link rel="alternate" hreflang="en-SK" href="http://www.mouser.sk/supplierpage/" /><link rel="alternate" hreflang="th-TH" href="http://th.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-TR" href="http://www.mouser.com.tr/supplierpage/" /><link rel="alternate" hreflang="zh-Hant-TW" href="http://www.mouser.tw/supplierpage/" /><link rel="alternate" hreflang="es-UY" href="http://uy.mouser.com/supplierpage/" /><link rel="alternate" hreflang="es-VE" href="http://ve.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-VN" href="http://www.mouser.vn/supplierpage/" /><link rel="alternate" hreflang="en-US" href="http://www.mouser.com/supplierpage/" /><link rel="alternate" hreflang="en-ZA" href="http://www.mouser.co.za/supplierpage/" /><link rel="alternate" hreflang="pt" href="http://br.mouser.com/supplierpage/" /><link rel="alternate" hreflang="zh-Hans" href="http://www.mouser.cn/supplierpage/" /><link rel="alternate" hreflang="cs" href="http://cz.mouser.com/supplierpage/" /><link rel="alternate" hreflang="de" href="http://www.mouser.de/supplierpage/" /><link rel="alternate" hreflang="fr" href="http://www.mouser.fr/supplierpage/" /><link rel="alternate" hreflang="it" href="http://www.mouser.it/supplierpage/" /><link rel="alternate" hreflang="ja" href="http://www.mouser.jp/supplierpage/" /><link rel="alternate" hreflang="ko" href="http://kr.mouser.com/supplierpage/" /><link rel="alternate" hreflang="es" href="http://www.mouser.mx/supplierpage/" /><link rel="alternate" hreflang="nl" href="http://nl.mouser.com/supplierpage/" /><link rel="alternate" hreflang="ru" href="http://ru.mouser.com/supplierpage/" /><link rel="alternate" hreflang="sv" href="http://www.mouser.se/supplierpage/" /><link rel="alternate" hreflang="th" href="http://th.mouser.com/supplierpage/" /><link rel="alternate" hreflang="zh-Hant" href="http://www.mouser.tw/supplierpage/" /><link rel="alternate" hreflang="en" href="http://www.mouser.com/supplierpage/" /><link href="/css/fontawesome/css/font-awesome.min.css?v=13.9.20170317.1" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/msrzvuvfterf.js" defer></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#fecddtvet{display:none!important}</style></head>
+<body id="ctl00_body" itemscope="" itemtype="http://schema.org/WebPage">
+<script src='../flash/js/jquery-1.11.1.min.js' type="text/javascript"></script>
+<script src='../flash/js/jquery-ui-1.11.1.min.js' type="text/javascript"></script>
+<script src='../flash/js/empty.file.js' type="text/javascript"></script>
+<script src='../flash/js/jquery.plugins2.js?v=13.9.20170317.1' type="text/javascript"></script>
+<script src='../flash/js/default.js?v=13.9.20170317.1' type="text/javascript"></script>
+<script src='../flash/js/bootstrap.min.js?v=13.9.20170317.1' type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script src='../flash/js/respond.min.js?v=13.9.20170317.1' type="text/javascript"></script>
+<![endif]-->
+<div id="cookie-notification-bar">
+
+</div>
+
+<div id="globalActionBar" class="global-action-bar">
+    <div id="gab-container" class="container-fluid">
+        <div id="contact" class="row">
+            <div class="col-xs-6 col-sm-6">
+                <div class="inline-block">
+                    <a id="A1" href="http://www.mouser.cn/contact/" title="联系我们" class="smallgrey contactInfo">
+                        <span>联系Mouser (上海)&nbsp;&nbsp;400-821-6111</span><span class="hide">联系我们</span>
+                    </a><div style="display: none;"><a href="uazrctwbbcexuyfeyz.html" id="fecddtvet" rel="file">rvbdvruquayucezqfrfwrv</a></div>
+                    <span class="pipe">&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <a id="AF" href="http://www.mouser.cn/feedback.aspx" class="smallgrey imgFeedBack" title="反馈">反馈</a>
+                </div>
+            </div>
+            <div class="col-xs-6 col-sm-6 align-right">
+                <div id="tdImg" class="inline-block gab-cart">
+                    <a id="A3" href="http://www.mouser.cn/cart" onclick="return MiniCart.ViewCartButton('Cart Hover','Global Action Bar');" class="smallgrey"><img src="/images/global-cart-icon.png" class="visualAttributeImage" /></a>
+                    <a id="miniCarthypLink" class="padding10Right" href="http://www.mouser.cn/cart" onclick="return MiniCart.ViewCartButton('Cart Hover', 'Global Action Bar');"><span class="">购物车</span></a>
+                </div>
+                <div class="inline-block">
+                    <span class="pipe">|&nbsp;&nbsp;&nbsp;</span>
+<a href="http://www.mouser.cn/localsites.aspx?qs=0gZ0gv0KDwunaWcLKnWdKP2mX2M991akz0ykwM4B25Y%3d" class="tdFlagLabel" title="更改位置">更改位置</a>
+<a class="tdFlag" href="http://www.mouser.cn/localsites.aspx?qs=0gZ0gv0KDwunaWcLKnWdKP2mX2M991akz0ykwM4B25Y%3d" alt="更改位置"><img class="visualAttributeImage" style="border-width: 1px;" src="/images/international/flags/cn2.gif"
+     title="中国 - 标记" alt="更改位置" /></a>
+                    RMB                </div>
+            </div>
+        </div>
+    </div>
+    <div style="clear: both;"></div>
+</div>
+<div id="divCurrencyPopup" class="currency-popup jsCurrencyPopup">
+    <div class="currency-close">
+        <a href="javascript:void(0)" title="关闭窗口" onclick="javascript:CloseCurrencyPopup();">&nbsp;</a>
+    </div>
+    <div>
+        <div id="popupHeader" style="width:auto;"><img src="/images/international/flags/cn2.gif" alt="中国" />&nbsp;<span id="lblCountry">中国</span></div>
+<br />
+<div style="padding: 0 20px 0 20px">
+    <span id="lblInstructions">请确认您选择的货币:</span><br />
+    <br />
+        <table width="95%">
+            <tr>
+                <td width="20%">
+<form action="/mvc/header/setcurrencypreference?currency=RMB&amp;qs=0gZ0gv0KDwsDnCdUTeZtNZtbLE7EQ8882BoM%2FtPraw8%3D" method="post">                        <input id="btnCurrency" class="button" type="Submit" value="RMB" />
+</form>                </td>
+                <td>
+                    <strong><span>人民币</span></strong>
+                    <br />
+
+                        <span>国际贸易术语：DDP</span>
+                        <br />
+
+                        <span>All prices <u>include</u> duty and customs fees.</span>
+                        <br />
+
+
+                </td>
+            </tr>
+        </table>
+        <br />
+</div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var CurrencyPopup = {
+        Init: function () {
+            $('.jsCurrencyPopup').dialog({
+                dialogClass: "no-title-bar",
+                autoOpen: false,
+                
+                width: "auto",
+                height: "auto",
+                modal: true,
+                closeOnEscape: false,
+                resizable: false,
+                draggable: false,
+                create: function (event, ui) {
+                    
+                    $(this).css("max-width", "430px");
+                }
+            });
+        },
+
+        Open: function () {
+            $(document).ready(function () {
+                $(".jsCurrencyPopup").dialog("open");
+            });
+        },
+
+        Close: function () {
+            $(document).ready(function () {
+                $(".jsCurrencyPopup").dialog("close");
+            });
+        }
+    };
+
+    $(document).ready(function () {
+        CurrencyPopup.Init();
+    });
+</script>
+
+<div id="cartDialog" class="CartDialog" style="display: none;">
+    <table id="miniCartOnly">
+        <tr id="divall">
+            <td id="tdCart">
+                <table style="width: 100%; padding: 0; border: 0">
+                    <tr>
+                        <td id="divCartSummText" style="width: 50%; padding-top: 3px; padding-bottom: 3px">
+                            <span id="lblCartSummary" class="summaryTxt">购物车小结</span>
+                        </td>
+                        <td id="tdSchedul" class="tdScheduleOrder" style="display: none">
+                            <span id="lblScheduledError" class="scheduleOrderTxt floatleft">购物车包含定期发货商品</span>
+                        </td>
+                    </tr>
+                </table>
+                <table id="tableMiniCartItms">
+                    <tr id="trCart">
+                        <td>
+                            <hr id="hrSeparatorTop" style="padding: 0; display: none; margin: 0 !important;" />
+                            <table id="tblMiniCart">
+                                <thead>
+                                    <tr>
+                                        <th class="miniCartColumn">制造商</th>
+                                        <th class="miniCartColumn MiniCartHdBg">制造商编号：</th>
+                                        <th class="miniCartColumn MiniCartHdBg">数量</th>
+                                        <th class="MiniCartHdStyle MiniCartHdBg">总价（含17%增值税）</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                            <hr id="hrSeparatorBtm" style="padding: 0; display: none; margin: 0 !important;" />
+                        </td>
+                    </tr>
+                </table>
+                <div style="display: none; padding-top: 10px" id="divSingleItem">
+                    <table id="tblSingeItem">
+                        <tr>
+                            <!-- Here goes the single item -->
+                            <td style="padding-right: 15px">
+                                <img id="miniCartImg" class="MiniCartMxImg" />
+                            </td>
+                            <td style="align: right; padding-right: 2px" id="tdSingleItms">
+                                <div id="divAll">
+                                    <div id="wrapper">
+                                        <div id="divLbl">
+                                            <span id="lblMFg" class="label">制造商零件编号</span>
+                                        </div>
+                                        <div id="divHyp">
+                                        </div>
+                                    </div>
+                                    <div id="divRest">
+                                        <span id="lblMfr" class="label">制造商：</span><span id="lblMiniMfrName"></span><br />
+                                        <span id="lblDes" class="label">描述：</span><span id="lblMiniPartDes" class="MiniCartDescription"></span>
+                                        <br />
+                                        <span id="LblQty" class="label">数量：</span><span id="lblMiniCartQty"></span><br />
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="divForCart" class="divMsgLnkTotal" style="display: none">
+                    <hr id="hrSprCartSubtotal" style="padding: 0; display: none;" />
+                    <span id="lblCartTotalAmount" style="display: none;" class="MiniCartSubTotal">购物车小结</span><br />
+                    <span id="lblCartErorMsg" style="display: none;" class="MiniCartSubTotal">* 您的购物车包含错误。</span>
+                    <div style="display: none" class="CenterAll" id="divToCartAtMiniCart">
+                        <a id="linkToCartAtMiniCart" href="http://www.mouser.cn/cart" style="color: white; text-decoration: none;" class="continue btn-Checkout"
+                           onclick=" return MiniCart.SendToCartPage('Cart Hover', 'View Cart Button'); ">查看购物车</a>
+                    </div>
+                </div>
+            </td>
+            <td style="display: none" id="trCartSubTotal">
+                <table class="tblMiniCartSub">
+                    <tr>
+                        <td align="right" style="padding-bottom: 5px; padding-top: 2px">
+                            <span id="lblMiniCartItemTotal" class="label"></span>
+                            <hr id="hrSeparator" style="padding: 1px" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="right" style="padding-bottom: 5px">
+                            <span id="lblMiniCartBalance">未结余额指根据您选择的付款方式目前应当支付而尚未支付的所有费用。</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" style="padding-bottom: 5px">
+                            <span id="lblFreeShipping" class="miniCartFreeShipMsg"></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="padding-top: 5px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap;">
+                            <a id="lnkBtnContune" class="blue-button showHorizontalMargin" href="#" onclick="return MiniCart.ContinueShopping();">继续购物</a>
+                            <a id="lnkBtnCart" class="continue btn-Checkout showHorizontal" href="http://www.mouser.cn/cart" onclick="return MiniCart.SendToCartPage('Add to Cart Modal','View Cart');">查看购物车</a>
+                        </td>
+                    </tr>
+                </table>
+                <span id="erorMsgSubtotal" style="display: none; float: right" class="miniCartError">* 您的购物车包含错误。</span>
+            </td>
+        </tr>
+        <tr id="trHideModalCheckBox" style="display: none">
+            <td colspan="2" class="cssChkhideModal">
+                <label><input type="checkbox" id="chkHideModal" /> 不再显示，直接进入购物车。 </label>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<script type="text/javascript">
+        var currentCountryCode = 'CN';
+        var currentCurrencyCode = 'RMB';
+        var currencyCulture = 'zh-CN';
+        var cultureCode = 'zh-CN';
+</script>
+
+<script type="text/javascript">
+    var miniCartResources = {"YourCartIsEmpty":"您的购物车是空的。","CartSubTotal":"订单总计（含17%增值税)","lblCart":"购物车","SelectionRequiredToBuy":"请选择希望购买的产品。","AddedToCart":"添加至购物车","CartSummary":"购物车小结","items":"项目","item":"项目"};
+</script>
+
+
+<div id="header" class="container-fluid" itemscope itemtype="http://schema.org/WPHeader">
+    <div id="search" class="row header-content">
+        <div id="logo" class="col-xs-4 col-sm-4">
+<a target="_self"
+   href="http://www.mouser.cn/" title="贸泽电子 中国 - 电子元器件分销商" alt="贸泽电子 中国 - 电子元器件分销商">
+        <img src="/images/mouser-reg-logo-chs.gif" title="贸泽电子 中国 - 电子元器件分销商" alt="贸泽电子 中国 - 电子元器件分销商" />
+    </a>
+
+        </div>
+        <div class="col-xs-8 col-sm-8">
+            <div class="row">
+                
+                <div id="account" class="col-xs-6 col-sm-6 align-right">
+                    <ul>
+                        <li>
+<span class="greeting-login-logout">
+            <a id="lnkLogin" href="https://www.mouser.cn/MyMouser/MouserLogin.aspx?qs=0gZ0gv0KDwunaWcLKnWdKP2mX2M991akz0ykwM4B25Y%3d" class="bold">登录</a>
+</span>
+                        </li>
+                            <li><a title="新用户注册" href="https://www.mouser.cn/MyMouser/CreateAccount.aspx">新用户注册</a></li>
+                        <li><a title="订单历史" href="https://www.mouser.cn/OrderHistory/OrderHistoryLogin.aspx">订单历史</a></li>
+                        <li><a title="订阅" href="/signup" target="_blank" onclick="javascript: return SaveSubscriptionURL();">订阅</a></li>
+                    </ul>
+                </div>
+                <div id="search-block" class="col-xs-6 col-sm-6">
+<form action="/mvc/header/search" method="post">                            <noscript>
+                                <style>
+                                    #search-block .headerSearchBox {
+                                        border-bottom-left-radius: 3px !important;
+                                        border-top-left-radius: 3px !important;
+                                    }
+
+                                    .show-title-for-nojs {
+                                        display: none;
+                                    }
+                                </style>
+                                <div id="search-title" class="show-title-for-nojs">
+                                    <label for="headerSearchKeyword">物料编号/关键字</label>
+                                </div>
+                            </noscript>
+                            <div id="search-bar" class="input-group">
+                                    <div id="scopeOptionDiv" class="dropdown dropdown-accordion input-group-btn hidden-scope-ddl" data-accordion="#accordion">
+
+                                        <label name="scopeOptions" tabindex="101" class="btn dropdown-toggle scopeSearchButton"
+                                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            全部 <span class="caret"></span>
+                                        </label>
+                                        
+                                        <input type="hidden" name="ScopeSelection" value="0" />
+
+
+                                        <ul class="dropdown-menu scope-options">
+                                            
+                                            
+
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=0 eng="All">全部</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=2093377 eng="EMI/RFI Components">EMI/RFI 器件</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=18337906 eng="Diodes &amp; Rectifiers">二极管与整流器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254086 eng="Industrial Automation">工业自动化</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254593 eng="Tools &amp; Supplies">工具与供应</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=10903778 eng="Engineering Development Tools">工程技术开发工具</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254105 eng="Switches">开关</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=7103046 eng="Memory">内存</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=17494821 eng="Computing">计算</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=16330849 eng="Potentiometers">电位计</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254363 eng="Resistors">电阻器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254613 eng="Wire &amp; Cable">电线与电缆</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254295 eng="Capacitors">电容器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254416 eng="Inductors">电感器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254136 eng="Circuit Protection">电路保护</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254429 eng="Power">电源</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254459 eng="Semiconductors">半导体</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254148 eng="Enclosures">机壳产品</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254141 eng="Varistors">压敏电阻</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254227 eng="Optoelectronics">光电子产品</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254539 eng="Sensors">传感器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254158 eng="Connectors">连接器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=14849088 eng="Transformers">变压器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254559 eng="Test &amp; Measurement">测试与测量</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=18356356 eng="Thermistors">热敏电阻器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254584 eng="Thermal Management">热管理产品</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254125 eng="Relays">继电器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=18338101 eng="Transistors">晶体管</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=10903767 eng="Embedded Processors &amp; Controllers">嵌入式处理器和控制器</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=254072 eng="Embedded Solutions">嵌入式解决方案</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=10973360 eng="Integrated Circuits - ICs">集成电路 - IC</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=11749874 eng="Frequency Control &amp; Timing Devices">频率控制器和定时装置</a></li>
+                                                <li><a href="javascript:void(0)" group="main" class=main-category data-value=17177774 eng="Microcontrollers - MCU">微控制器 - MCU</a></li>
+                                            
+
+                                        </ul>
+
+
+                                    </div>
+
+                                <input type="text" id="headerSearchKeyword" name="keyword" class="form-control headerSearchBox js-search-autosuggest" title="物料编号/关键字" autocorrect="off" autocapitalize="off" placeholder='物料编号/关键字' />
+                                <div class="input-group-btn">
+                                    <button type="submit" tabindex="100" class="btn btn-default headerSearchButton searchbutton" title="搜索">
+                                        <i class="fa fa-search" aria-hidden="true"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="align-right">
+                                <label title="选中时，搜索将只返回库存的产品。"><input id="stocked" name="stocked" type="checkbox" value="true" /><input name="stocked" type="hidden" value="false" /> 有库存</label> &nbsp;&nbsp;
+                                <label title="选中时，搜索将只返回符合 RoHS 规范要求和 RoHS 豁免产品。"><input id="rohs" name="rohs" type="checkbox" value="true" /><input name="rohs" type="hidden" value="false" /> 符合RoHS</label>
+                            </div>
+</form>                </div>
+            </div>
+        </div>
+    </div>
+        <div id="navArea" class="row">
+            <div class="col-xs-12 col-sm-12">
+                <div id="navMain" class="inline-block navbar">
+                    <ul class="topnav">
+                                <li>
+                                    <a href="/Electronic-Components/">产品</a>
+                                        <ul class="subnav" id="subnav">
+                                                <li>
+                                                        <a href="/Electronic-Components/?">所有产品</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/new/">最新产品</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/new/products">按类别划分的新产品</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/">新技术</a>
+                                                </li>
+                                        </ul>
+                                </li>
+                                <li>
+                                    <a href="/supplierpage/">制造商</a>
+                                        <ul class="subnav" id="subnav">
+                                                <li>
+                                                        <a href="/supplierpage/?">所有制造商A-Z</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/newsuppliers/">新制造商</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/suppliercategory/">制造商（按产品类别分类）</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/CatalogRequest/CatalogDownloads.aspx">下载 Excel 线卡</a>
+                                                </li>
+                                        </ul>
+                                </li>
+                                <li>
+                                    <a href="/applications/?">应用</a>
+                                        <ul class="subnav" id="subnav">
+                                                <li>
+                                                        <a href="/blog?">Mouser博客</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/audio_applications">音频</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/automotive-applications">汽车</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/industrial_applications">工业</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/internet-of-things">物联网</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/lighting">照明</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/open-source-hardware">开源硬件</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/rf-wireless-technology">无线射频</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/sensor_technology">传感器技术</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/usb-technology">USB技术</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/applications/??">更多应用</a>
+                                                </li>
+                                        </ul>
+                                </li>
+                                <li>
+                                    <a href="/servicesandtools/">服务和工具</a>
+                                        <ul class="subnav" id="subnav">
+                                                <li>
+                                                        <a href="/MyMouser/AccountSummary.aspx">登录/创建账户</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/EZBuy/EZBuy.aspx">简易订购工具</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/OrderHistory/ProjectsView.aspx">项目管理器</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/bom/">BOM工具</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/Tools/part-list-import.aspx">零件清单导入器</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/accelerator/">搜索加速器</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/Quote/Quote.aspx">请求报价</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/SubscriptionCenter/ManageSubscription.aspx?">订阅电子邮件</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/blog">Mouser博客</a>
+                                                </li>
+                                                <li>
+                                                </li>
+                                                <li>
+                                                        <a href="/servicesandtools/?">更多服务和工具</a>
+                                                </li>
+                                        </ul>
+                                </li>
+                                <li>
+                                    <a href="/CatalogRequest/Catalog.aspx">目录</a>
+                                </li>
+                                <li>
+                                    <a href="/Help/Help.aspx">帮助</a>
+                                        <ul class="subnav" id="subnav">
+                                                <li>
+                                                        <a href="/aboutus/">关于 Mouser</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/contact/">联系我们</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/feedback.aspx">反馈</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/helppage/#FAQ">常见问题</a>
+                                                </li>
+                                                <li>
+                                                        <a href="/Help/Help.aspx?">更多幫助主題</a>
+                                                </li>
+                                        </ul>
+                                </li>
+                    </ul>
+                </div>
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        //* change to html5 catalog if javascript is enabled *
+                        $('a.btnOnlineCatalog').attr('href', '/catalogviewer/default.aspx');
+
+
+                    });
+                </script>
+            </div>
+        </div>
+</div>
+
+<script>disableScopeSearch = 'False' =="True";</script>
+<div id="mainContainer">
+<form method="post" action="./" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="8eX6nuD0DfY0vHai+raLdf7PddenTHxwXTyEfcBePWHC2wqtbaJPO+0+IveEShG3cOAxcoy8QrMEdF5x+rLIikhIxaM=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZIfBoSL8TZnsnOFihh6T3B3-ZDc9vWAo-Dvo5VSdzj9CkFL2Zg2&amp;t=636160624665894255" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var subdomainname = '.mouser.cn';
+var lang = 'zh-CN';
+var country = 'CN';
+var shippingCountry = 'CN';
+var usdSubdomain = 'www';
+var subdomain = 'cn2';
+var baseDomain = 'mouser.cn';var baseUrl = '/';//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EC4D9848" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+<div id="content-container" class="content-container">
+<div id="content-fixed-width" class="content-fixed-width">
+
+<link type="text/css" rel="stylesheet" href="/css/mfr_directory.css" />
+<!-- BreadCrumb -->
+<div class="breadcrumb">
+<a href="/">主页</a> &gt; <strong>所有制造商</strong>
+</div>
+<div id="mfr_directory">
+<h1>所有制造商A-Z</h1>
+<!-- Zone 25 Banner -->
+<div id="zone25-banner" class="banmanzone" data-zone-id="25"></div>
+<!-- End Zone 25 Banner -->
+<div class="top-nav">
+<div class="pull-right">
+<a id="ctl00_ContentMain_btnExportToExcel" class="button-white" href="javascript:__doPostBack(&#39;ctl00$ContentMain$btnExportToExcel&#39;,&#39;&#39;)">导出为EXCEL</a>
+</div>
+<h2><a class="nav_link" href="/suppliercategory/">制造商（按产品类别分类）</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="nav_link" href="/newsuppliers/">新制造商</a></h2>
+</div>
+<!-- Header Quick Jump Menu -->
+<div class="directory-menu">
+<ul>
+<li>
+<a data-groupid='group_nbr' href='##' title='#'>
+#
+</a>
+</li>
+
+<li>
+<a data-groupid='group_A' href='#A' title='A'>
+A
+</a>
+</li>
+
+<li>
+<a data-groupid='group_B' href='#B' title='B'>
+B
+</a>
+</li>
+
+<li>
+<a data-groupid='group_C' href='#C' title='C'>
+C
+</a>
+</li>
+
+<li>
+<a data-groupid='group_D' href='#D' title='D'>
+D
+</a>
+</li>
+
+<li>
+<a data-groupid='group_E' href='#E' title='E'>
+E
+</a>
+</li>
+
+<li>
+<a data-groupid='group_F' href='#F' title='F'>
+F
+</a>
+</li>
+
+<li>
+<a data-groupid='group_G' href='#G' title='G'>
+G
+</a>
+</li>
+
+<li>
+<a data-groupid='group_H' href='#H' title='H'>
+H
+</a>
+</li>
+
+<li>
+<a data-groupid='group_I' href='#I' title='I'>
+I
+</a>
+</li>
+
+<li>
+<a data-groupid='group_J' href='#J' title='J'>
+J
+</a>
+</li>
+
+<li>
+<a data-groupid='group_K' href='#K' title='K'>
+K
+</a>
+</li>
+
+<li>
+<a data-groupid='group_L' href='#L' title='L'>
+L
+</a>
+</li>
+
+<li>
+<a data-groupid='group_M' href='#M' title='M'>
+M
+</a>
+</li>
+
+<li>
+<a data-groupid='group_N' href='#N' title='N'>
+N
+</a>
+</li>
+
+<li>
+<a data-groupid='group_O' href='#O' title='O'>
+O
+</a>
+</li>
+
+<li>
+<a data-groupid='group_P' href='#P' title='P'>
+P
+</a>
+</li>
+
+<li>
+<a data-groupid='group_Q' href='#Q' title='Q'>
+Q
+</a>
+</li>
+
+<li>
+<a data-groupid='group_R' href='#R' title='R'>
+R
+</a>
+</li>
+
+<li>
+<a data-groupid='group_S' href='#S' title='S'>
+S
+</a>
+</li>
+
+<li>
+<a data-groupid='group_T' href='#T' title='T'>
+T
+</a>
+</li>
+
+<li>
+<a data-groupid='group_U' href='#U' title='U'>
+U
+</a>
+</li>
+
+<li>
+<a data-groupid='group_V' href='#V' title='V'>
+V
+</a>
+</li>
+
+<li>
+<a data-groupid='group_W' href='#W' title='W'>
+W
+</a>
+</li>
+
+<li>
+<a data-groupid='group_X' href='#X' title='X'>
+X
+</a>
+</li>
+
+<li>
+<a data-groupid='group_Y' href='#Y' title='Y'>
+Y
+</a>
+</li>
+
+<li>
+<a data-groupid='group_Z' href='#Z' title='Z'>
+Z
+</a>
+</li>
+</ul>
+</div>
+<!-- Container for jumping supplier group -->
+<div id="mfr_window"></div>
+<div id="mfr_list">
+
+<div class="mfr_group" id='group_nbr'>
+<div class="mfr_header">
+<a name='#'></a>
+<h4>
+<a id='#'>
+<span id="ctl00_ContentMain_outerRpt_ctl00_lblLetter">#</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl00_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/3m/' title='3M'>
+3M
+</a>
+</td><td>
+<a href='/4d-systems/' title='4D Systems'>
+4D Systems
+</a>
+</td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_A'>
+<div class="mfr_header">
+<a name='A'></a>
+<h4>
+<a id='A'>
+<span id="ctl00_ContentMain_outerRpt_ctl01_lblLetter">A</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl01_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/Aavid-Thermalloy/' title='Aavid Thermalloy'>
+Aavid Thermalloy
+</a>
+</td><td>
+<a href='/alorium-technology/' title='Alorium Technology'>
+Alorium Technology
+</a>
+</td><td>
+<a href='/apem/' title='APEM'>
+APEM
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/AB-Connectors/' title='AB Connectors / TT Electronics'>
+AB Connectors / TT Electronics
+</a>
+</td><td>
+<a href='/taiwanalpha/' title='Alpha (Taiwan)'>
+Alpha (Taiwan)
+</a>
+</td><td>
+<a href='/apextoolgroup/' title='Apex Tool Group'>
+Apex Tool Group
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/abracon/' title='Abracon'>
+Abracon
+</a>
+</td><td>
+<a href='/alphawire/' title='Alpha Wire'>
+Alpha Wire
+</a>
+</td><td>
+<a href='/API-Delevan/' title='API Delevan'>
+API Delevan
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ackme-networks/' title='ACKme Networks / Zentri'>
+ACKme Networks / Zentri
+</a>
+</td><td>
+<a href='/ALPS-Electric/' title='ALPS Electric'>
+ALPS Electric
+</a>
+</td><td>
+<a href='/API-Technologies/' title='API Technologies'>
+API Technologies
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/actel/' title='Actel'>
+Actel
+</a>
+</td><td>
+<a href='/altech/' title='Altech'>
+Altech
+</a>
+</td><td>
+<a href='/apmhexseal/' title='APM HEXSEAL'>
+APM HEXSEAL
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/active-semi/' title='Active-Semi'>
+Active-Semi
+</a>
+</td><td>
+<a href='/altera/' title='Altera / Intel'>
+Altera / Intel
+</a>
+</td><td>
+<a href='/appliedmotion/' title='Applied Motion'>
+Applied Motion
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/adafruit/' title='Adafruit'>
+Adafruit
+</a>
+</td><td>
+<a href='/apc/' title='American Power Conversion'>
+American Power Conversion
+</a>
+</td><td>
+<a href='/arbor/' title='Arbor Technology'>
+Arbor Technology
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/aie/' title='Adaptive Interconnect Electronics, Inc. (AIE)'>
+Adaptive Interconnect Electronics, Inc. (AIE)
+</a>
+</td><td>
+<a href='/american-technical-ceramics/' title='American Technical Ceramics (ATC)'>
+American Technical Ceramics (ATC)
+</a>
+</td><td>
+<a href='/arcol/' title='ARCOL / Ohmite'>
+ARCOL / Ohmite
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/adesto-technologies/' title='Adesto Technologies'>
+Adesto Technologies
+</a>
+</td><td>
+<a href='/Ametherm/' title='Ametherm'>
+Ametherm
+</a>
+</td><td>
+<a href='/arcotronics/' title='Arcotronics / KEMET'>
+Arcotronics / KEMET
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Analog-Devices/' title='ADI (Analog Devices Inc.)'>
+ADI (Analog Devices Inc.)
+</a>
+</td><td>
+<a href='/amisemiconductor/' title='AMI Semiconductor / ON Semiconductor'>
+AMI Semiconductor / ON Semiconductor
+</a>
+</td><td>
+<a href='/arduino/' title='Arduino'>
+Arduino
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/adi-engineering/' title='ADI Engineering'>
+ADI Engineering
+</a>
+</td><td>
+<a href='/teampconnectors/' title='AMP Connectors / TE Connectivity'>
+AMP Connectors / TE Connectivity
+</a>
+</td><td>
+<a href='/aries/' title='Aries Electronics'>
+Aries Electronics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/adlink/' title='ADLINK Technology'>
+ADLINK Technology
+</a>
+</td><td>
+<a href='/Amphenol/' title='Amphenol'>
+Amphenol
+</a>
+</td><td>
+<a href='/panasonic-industrial-devices/' title='Aromat'>
+Aromat
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/analogictech/' title='Advanced Analogic Technologies'>
+Advanced Analogic Technologies
+</a>
+</td><td>
+<a href='/fci/' title='Amphenol FCI'>
+Amphenol FCI
+</a>
+</td><td>
+<a href='/artesyn/' title='Artesyn Embedded Technologies'>
+Artesyn Embedded Technologies
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ald/' title='Advanced Linear Devices'>
+Advanced Linear Devices
+</a>
+</td><td>
+<a href='/amphenol-nexus/' title='Amphenol Nexus Technologies'>
+Amphenol Nexus Technologies
+</a>
+</td><td>
+<a href='/advanced-semiconductor/' title='ASI Semiconductor'>
+ASI Semiconductor
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/advanced-semiconductor/' title='Advanced Semiconductor, Inc.'>
+Advanced Semiconductor, Inc.
+</a>
+</td><td>
+<a href='/ams/' title='ams (Austria Micro Systems)'>
+ams (Austria Micro Systems)
+</a>
+</td><td>
+<a href='/astecpower/' title='Astec Power'>
+Astec Power
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/amphenol-advanced-sensors/' title='Advanced Sensors / Amphenol'>
+Advanced Sensors / Amphenol
+</a>
+</td><td>
+<a href='/amseco/' title='AMSECO / Potter'>
+AMSECO / Potter
+</a>
+</td><td>
+<a href='/american-technical-ceramics/' title='ATC (American Technical Ceramics)'>
+ATC (American Technical Ceramics)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Advanced-Thermal-Solutions/' title='Advanced Thermal Solutions'>
+Advanced Thermal Solutions
+</a>
+</td><td>
+<a href='/amulet/' title='Amulet Technologies'>
+Amulet Technologies
+</a>
+</td><td>
+<a href='/atmel/' title='Atmel / Microchip'>
+Atmel / Microchip
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/advantech/' title='Advantech'>
+Advantech
+</a>
+</td><td>
+<a href='/anachip/' title='Anachip'>
+Anachip
+</a>
+</td><td>
+<a href='/Tyco-Electronics/' title='Augat'>
+Augat
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/aem/' title='AEM'>
+AEM
+</a>
+</td><td>
+<a href='/Analog-Devices/' title='Analog Devices Inc.'>
+Analog Devices Inc.
+</a>
+</td><td>
+<a href='/ault/' title='Ault / SL Power'>
+Ault / SL Power
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/afero/' title='Afero'>
+Afero
+</a>
+</td><td>
+<a href='/analogictech/' title='AnalogicTech'>
+AnalogicTech
+</a>
+</td><td>
+<a href='/ams/' title='austriamicrosystems'>
+austriamicrosystems
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/agastat/' title='Agastat / TE Connectivity'>
+Agastat / TE Connectivity
+</a>
+</td><td>
+<a href='/anaren/' title='Anaren'>
+Anaren
+</a>
+</td><td>
+<a href='/Avago-Technologies/' title='Avago Technologies'>
+Avago Technologies
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/aim/' title='AIM (American Iron and Metal)'>
+AIM (American Iron and Metal)
+</a>
+</td><td>
+<a href='/Anderson-Power-Products/' title='Anderson Power Products'>
+Anderson Power Products
+</a>
+</td><td>
+<a href='/Avery-Dennison/' title='Avery Dennison'>
+Avery Dennison
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/aimcambridge/' title='AIM-Cambridge / Cinch Connectivity Solutions'>
+AIM-Cambridge / Cinch Connectivity Solutions
+</a>
+</td><td>
+<a href='/vishay/' title='Angstrohm / Vishay'>
+Angstrohm / Vishay
+</a>
+</td><td>
+<a href='/AVX/' title='AVX'>
+AVX
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/airborn/' title='AirBorn'>
+AirBorn
+</a>
+</td><td>
+<a href='/antennafactor/' title='Antenna Factor'>
+Antenna Factor
+</a>
+</td><td>
+<a href='/axicom/' title='Axicom / TE Connectivity'>
+Axicom / TE Connectivity
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/akustica/' title='Akustica'>
+Akustica
+</a>
+</td><td>
+<a href='/antenova/' title='Antenova'>
+Antenova
+</a>
+</td><td>
+<a href='/Axiomtek/' title='Axiomtek'>
+Axiomtek
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/alcoswitch/' title='Alcoswitch / TE Connectivity'>
+Alcoswitch / TE Connectivity
+</a>
+</td><td>
+<a href='/apacer/' title='Apacer Technology Inc.'>
+Apacer Technology Inc.
+</a>
+</td><td>
+<a href='/azoteq/' title='Azoteq'>
+Azoteq
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/allsensors/' title='All Sensors'>
+All Sensors
+</a>
+</td><td>
+<a href='/apc/' title='APC by Schneider Electric'>
+APC by Schneider Electric
+</a>
+</td><td>
+<a href='/vishay/' title='Aztronic / Vishay'>
+Aztronic / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Alliance-Memory/' title='Alliance Memory'>
+Alliance Memory
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_B'>
+<div class="mfr_header">
+<a name='B'></a>
+<h4>
+<a id='B'>
+<span id="ctl00_ContentMain_outerRpt_ctl02_lblLetter">B</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl02_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/BK-Precision/' title='B&K Precision'>
+B&K Precision
+</a>
+</td><td>
+<a href='/bergquist/' title='Bergquist Company'>
+Bergquist Company
+</a>
+</td><td>
+<a href='/bourns/' title='Bourns'>
+Bourns
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/bb-smartworx/' title='B+B SmartWorx'>
+B+B SmartWorx
+</a>
+</td><td>
+<a href='/vishay/' title='Beyschlag / Vishay'>
+Beyschlag / Vishay
+</a>
+</td><td>
+<a href='/bps/' title='BPS'>
+BPS
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='BC Components / Vishay'>
+BC Components / Vishay
+</a>
+</td><td>
+<a href='/BI-Technologies/' title='BI Technologies / TT Electronics'>
+BI Technologies / TT Electronics
+</a>
+</td><td>
+<a href='/broadcom/' title='Broadcom'>
+Broadcom
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/beagleboardorg/' title='BeagleBoard'>
+BeagleBoard
+</a>
+</td><td>
+<a href='/biaspower/' title='Bias Power'>
+Bias Power
+</a>
+</td><td>
+<a href='/buchanan/' title='Buchanan / TE Connectivity'>
+Buchanan / TE Connectivity
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/BEI-Sensors/' title='BEI Sensors'>
+BEI Sensors
+</a>
+</td><td>
+<a href='/bivar/' title='BIVAR'>
+BIVAR
+</a>
+</td><td>
+<a href='/BUD-Industries/' title='Bud Industries'>
+Bud Industries
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/bel-group/' title='Bel'>
+Bel
+</a>
+</td><td>
+<a href='/blackhawk/' title='Blackhawk'>
+Blackhawk
+</a>
+</td><td>
+<a href='/bulgin/' title='Bulgin'>
+Bulgin
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/bel-fuse/' title='Bel Fuse'>
+Bel Fuse
+</a>
+</td><td>
+<a href='/Bluegiga-Technologies/' title='Bluegiga Technologies'>
+Bluegiga Technologies
+</a>
+</td><td>
+<a href='/burr-brown/' title='Burr-Brown / TI'>
+Burr-Brown / TI
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/bel-power/' title='Bel Power Solutions'>
+Bel Power Solutions
+</a>
+</td><td>
+<a href='/Bluetechnix/' title='Bluetechnix'>
+Bluetechnix
+</a>
+</td><td>
+<a href='/bps/' title='BusBoard Prototype Systems'>
+BusBoard Prototype Systems
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/bel-signal-transformer/' title='Bel Signal Transformer'>
+Bel Signal Transformer
+</a>
+</td><td>
+<a href='/bomar/' title='Bomar Interconnect'>
+Bomar Interconnect
+</a>
+</td><td>
+<a href='/Bussmann/' title='Bussmann / Eaton'>
+Bussmann / Eaton
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/belden/' title='Belden Wire & Cable'>
+Belden Wire & Cable
+</a>
+</td><td>
+<a href='/bosch/' title='Bosch'>
+Bosch
+</a>
+</td><td>
+<a href='/bytecraft/' title='Byte Craft'>
+Byte Craft
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/bellin/' title='Bellin Dynamic Systems'>
+Bellin Dynamic Systems
+</a>
+</td><td>
+<a href='/Boundary-Devices/' title='Boundary Devices'>
+Boundary Devices
+</a>
+</td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_C'>
+<div class="mfr_header">
+<a name='C'></a>
+<h4>
+<a id='C'>
+<span id="ctl00_ContentMain_outerRpt_ctl03_lblLetter">C</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl03_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/cdtech/' title='C&D Technologies / Murata'>
+C&D Technologies / Murata
+</a>
+</td><td>
+<a href='/te-cii/' title='CII / TE Connectivity'>
+CII / TE Connectivity
+</a>
+</td><td>
+<a href='/continental/' title='Continental Industries'>
+Continental Industries
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ckcomponents/' title='C&K Components'>
+C&K Components
+</a>
+</td><td>
+<a href='/cinch-connectivity/' title='Cinch / Bel'>
+Cinch / Bel
+</a>
+</td><td>
+<a href='/conxall/' title='CONXALL'>
+CONXALL
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/caddock/' title='Caddock'>
+Caddock
+</a>
+</td><td>
+<a href='/cincon/' title='Cincon'>
+Cincon
+</a>
+</td><td>
+<a href='/Cooper-Bussmann/' title='Cooper Bussmann / Eaton'>
+Cooper Bussmann / Eaton
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/cadeka/' title='Cadeka Microcircuits'>
+Cadeka Microcircuits
+</a>
+</td><td>
+<a href='/cirronet/' title='Cirronet / RFM'>
+Cirronet / RFM
+</a>
+</td><td>
+<a href='/cooper/' title='Cooper Tools'>
+Cooper Tools
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Califia-Lighting/' title='Califia Lighting'>
+Califia Lighting
+</a>
+</td><td>
+<a href='/Cirrus-Logic/' title='Cirrus Logic'>
+Cirrus Logic
+</a>
+</td><td>
+<a href='/corcom/' title='Corcom / TE Connectivity'>
+Corcom / TE Connectivity
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/cel/' title='California Eastern Labs'>
+California Eastern Labs
+</a>
+</td><td>
+<a href='/te-citec/' title='Citec / TE Connectivity'>
+Citec / TE Connectivity
+</a>
+</td><td>
+<a href='/cde/' title='Cornell Dubilier (CDE)'>
+Cornell Dubilier (CDE)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/cmd/' title='California Micro Devices / ON Semi'>
+California Micro Devices / ON Semi
+</a>
+</td><td>
+<a href='/citizen/' title='Citizen'>
+Citizen
+</a>
+</td><td>
+<a href='/cosel/' title='Cosel'>
+Cosel
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/aimcambridge/' title='Cambridge'>
+Cambridge
+</a>
+</td><td>
+<a href='/clarostat/' title='Clarostat / Honeywell'>
+Clarostat / Honeywell
+</a>
+</td><td>
+<a href='/coto/' title='Coto Technology'>
+Coto Technology
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/carclooptics/' title='Carclo Technical Plastics'>
+Carclo Technical Plastics
+</a>
+</td><td>
+<a href='/cmd/' title='CMD / ON Semiconductor'>
+CMD / ON Semiconductor
+</a>
+</td><td>
+<a href='/cree/' title='Cree'>
+Cree
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Carling-Technologies/' title='Carling Technologies'>
+Carling Technologies
+</a>
+</td><td>
+<a href='/cmosis/' title='CMOSIS'>
+CMOSIS
+</a>
+</td><td>
+<a href='/criticallink/' title='Critical Link'>
+Critical Link
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/amphenol-casco/' title='Casco / Amphenol'>
+Casco / Amphenol
+</a>
+</td><td>
+<a href='/codered/' title='Code Red Technologies'>
+Code Red Technologies
+</a>
+</td><td>
+<a href='/crocus-technology/' title='Crocus Technology'>
+Crocus Technology
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/catalyst/' title='Catalyst / ON Semiconductor'>
+Catalyst / ON Semiconductor
+</a>
+</td><td>
+<a href='/coilcraft/' title='Coilcraft'>
+Coilcraft
+</a>
+</td><td>
+<a href='/crouzet/' title='Crouzet'>
+Crouzet
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ccs/' title='CCS'>
+CCS
+</a>
+</td><td>
+<a href='/coiltronics/' title='Coiltronics / Eaton'>
+Coiltronics / Eaton
+</a>
+</td><td>
+<a href='/crouzet-ssr/' title='Crouzet Solid State Relays / Crydom'>
+Crouzet Solid State Relays / Crydom
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/cde/' title='CDE'>
+CDE
+</a>
+</td><td>
+<a href='/comax/' title='COMAX Switches'>
+COMAX Switches
+</a>
+</td><td>
+<a href='/crydom/' title='Crydom'>
+Crydom
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/cel/' title='CEL'>
+CEL
+</a>
+</td><td>
+<a href='/comchip/' title='Comchip Technology'>
+Comchip Technology
+</a>
+</td><td>
+<a href='/crystalsemi/' title='Crystal Semiconductor'>
+Crystal Semiconductor
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='Central / Vishay'>
+Central / Vishay
+</a>
+</td><td>
+<a href='/concept-technologie/' title='Concept Technologie / Power Integrations'>
+Concept Technologie / Power Integrations
+</a>
+</td><td>
+<a href='/crystekcrystals/' title='Crystek Corporation'>
+Crystek Corporation
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/centralsemi/' title='Central Semiconductor'>
+Central Semiconductor
+</a>
+</td><td>
+<a href='/concord/' title='Concord Semiconductor'>
+Concord Semiconductor
+</a>
+</td><td>
+<a href='/csb/' title='CSB'>
+CSB
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='Cera-Mite / Vishay'>
+Cera-Mite / Vishay
+</a>
+</td><td>
+<a href='/condorpower/' title='Condor / SL Power'>
+Condor / SL Power
+</a>
+</td><td>
+<a href='/cts/' title='CTS Electronic Components'>
+CTS Electronic Components
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/chemtronics/' title='Chemtronics'>
+Chemtronics
+</a>
+</td><td>
+<a href='/conec/' title='CONEC'>
+CONEC
+</a>
+</td><td>
+<a href='/cui-inc/' title='CUI Inc'>
+CUI Inc
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/cherry/' title='CHERRY'>
+CHERRY
+</a>
+</td><td>
+<a href='/congatec/' title='congatec'>
+congatec
+</a>
+</td><td>
+<a href='/CW-Industries/' title='CW Industries'>
+CW Industries
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Chicago-Miniature/' title='Chicago Miniature'>
+Chicago Miniature
+</a>
+</td><td>
+<a href='/connectone/' title='Connect One'>
+Connect One
+</a>
+</td><td>
+<a href='/cymbet/' title='Cymbet'>
+Cymbet
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Chipcon/' title='Chipcon'>
+Chipcon
+</a>
+</td><td>
+<a href='/connectorcity/' title='Connector City'>
+Connector City
+</a>
+</td><td>
+<a href='/cyoptics/' title='CyOptics'>
+CyOptics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ciclonsemiconductor/' title='Ciclon Semiconductor'>
+Ciclon Semiconductor
+</a>
+</td><td>
+<a href='/amphenolconnex/' title='Connex / Amphenol'>
+Connex / Amphenol
+</a>
+</td><td>
+<a href='/Cypress-Semiconductor/' title='Cypress Semiconductor'>
+Cypress Semiconductor
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_D'>
+<div class="mfr_header">
+<a name='D'></a>
+<h4>
+<a id='D'>
+<span id="ctl00_ContentMain_outerRpt_ctl04_lblLetter">D</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl04_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/vishay/' title='Dale / Vishay'>
+Dale / Vishay
+</a>
+</td><td>
+<a href='/deltron/' title='Deltron'>
+Deltron
+</a>
+</td><td>
+<a href='/digilent/' title='Digilent'>
+Digilent
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/dallassemi/' title='Dallas Semiconductor'>
+Dallas Semiconductor
+</a>
+</td><td>
+<a href='/deltron/' title='DEM Manufacturing'>
+DEM Manufacturing
+</a>
+</td><td>
+<a href='/digitalview/' title='Digital View'>
+Digital View
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/datainstruments/' title='Data Instruments / Honeywell'>
+Data Instruments / Honeywell
+</a>
+</td><td>
+<a href='/desco/' title='Desco'>
+Desco
+</a>
+</td><td>
+<a href='/diodelaserconcepts/' title='Diode Laser Concepts'>
+Diode Laser Concepts
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/datel/' title='DATEL'>
+DATEL
+</a>
+</td><td>
+<a href='/TE-Deutsch/' title='Deutsch Connectors'>
+Deutsch Connectors
+</a>
+</td><td>
+<a href='/Diodes-Inc/' title='Diodes Incorporated'>
+Diodes Incorporated
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/dave-embedded-systems/' title='DAVE Embedded Systems'>
+DAVE Embedded Systems
+</a>
+</td><td>
+<a href='/dfrobot/' title='DFRobot'>
+DFRobot
+</a>
+</td><td>
+<a href='/dioo-microcircuits/' title='DIOO Microcircuits'>
+DIOO Microcircuits
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/davies/' title='Davies Molding'>
+Davies Molding
+</a>
+</td><td>
+<a href='/dialight/' title='Dialight'>
+Dialight
+</a>
+</td><td>
+<a href='/displaytech/' title='Displaytech Ltd.'>
+Displaytech Ltd.
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/db-unlimited/' title='DB Unlimited'>
+DB Unlimited
+</a>
+</td><td>
+<a href='/dialog-semiconductor/' title='Dialog Semiconductor'>
+Dialog Semiconductor
+</a>
+</td><td>
+<a href='/dlpdesign/' title='DLP Design'>
+DLP Design
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/dbm-optix/' title='DBM Optix'>
+DBM Optix
+</a>
+</td><td>
+<a href='/dielectriclabs/' title='Dielectric Laboratories / Knowles'>
+Dielectric Laboratories / Knowles
+</a>
+</td><td>
+<a href='/dmc-tools/' title='DMC Tools'>
+DMC Tools
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Delphi-Connection-Systems/' title='Delphi'>
+Delphi
+</a>
+</td><td>
+<a href='/digi-international/' title='Digi International'>
+Digi International
+</a>
+</td><td>
+<a href='/vishay/' title='Draloric / Vishay'>
+Draloric / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/delta-electronics/' title='Delta Electronics'>
+Delta Electronics
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_E'>
+<div class="mfr_header">
+<a name='E'></a>
+<h4>
+<a id='E'>
+<span id="ctl00_ContentMain_outerRpt_ctl05_lblLetter">E</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl05_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/eaglepicher/' title='Eagle-Picher'>
+Eagle-Picher
+</a>
+</td><td>
+<a href='/elna/' title='Elna'>
+Elna
+</a>
+</td><td>
+<a href='/esicotriton/' title='Esico-Triton'>
+Esico-Triton
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/eao/' title='EAO'>
+EAO
+</a>
+</td><td>
+<a href='/elpac/' title='Elpac / Inventus Power'>
+Elpac / Inventus Power
+</a>
+</td><td>
+<a href='/esquilo/' title='Esquilo'>
+Esquilo
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/easysync/' title='EasySync'>
+EasySync
+</a>
+</td><td>
+<a href='/elprotronic/' title='Elprotronic Inc.'>
+Elprotronic Inc.
+</a>
+</td><td>
+<a href='/vishay/' title='ESTA / Vishay'>
+ESTA / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/eaton/' title='Eaton'>
+Eaton
+</a>
+</td><td>
+<a href='/embeddedartists/' title='Embedded Artists'>
+Embedded Artists
+</a>
+</td><td>
+<a href='/eswitch/' title='E-Switch'>
+E-Switch
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ebm-papst/' title='ebm-papst'>
+ebm-papst
+</a>
+</td><td>
+<a href='/emersonconnectivity/' title='Emerson Connectivity Solutions'>
+Emerson Connectivity Solutions
+</a>
+</td><td>
+<a href='/e-t-a/' title='E-T-A Circuit Breakers'>
+E-T-A Circuit Breakers
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ecliptek/' title='Ecliptek'>
+Ecliptek
+</a>
+</td><td>
+<a href='/Emerson-Network-Power/' title='Emerson Network Power'>
+Emerson Network Power
+</a>
+</td><td>
+<a href='/eta/' title='ETA-USA'>
+ETA-USA
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ecs/' title='ECS'>
+ECS
+</a>
+</td><td>
+<a href='/energymicro/' title='Energy Micro'>
+Energy Micro
+</a>
+</td><td>
+<a href='/etisystems/' title='ETI Systems'>
+ETI Systems
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/edac/' title='EDAC'>
+EDAC
+</a>
+</td><td>
+<a href='/erp/' title='Energy Recovery Products (ERP)'>
+Energy Recovery Products (ERP)
+</a>
+</td><td>
+<a href='/eupec/' title='Eupec / Infineon'>
+Eupec / Infineon
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/eetools/' title='EE Tools'>
+EE Tools
+</a>
+</td><td>
+<a href='/enpirion/' title='Enpirion / Altera'>
+Enpirion / Altera
+</a>
+</td><td>
+<a href='/eurotech/' title='Eurotech'>
+Eurotech
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/johnson/' title='EF Johnson'>
+EF Johnson
+</a>
+</td><td>
+<a href='/enterpoint/' title='Enterpoint'>
+Enterpoint
+</a>
+</td><td>
+<a href='/everlight/' title='Everlight'>
+Everlight
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/AVX-Connectors/' title='Elco / AVX'>
+Elco / AVX
+</a>
+</td><td>
+<a href='/EPCOS/' title='EPCOS / TDK'>
+EPCOS / TDK
+</a>
+</td><td>
+<a href='/Everspin-Technologies/' title='Everspin Technologies'>
+Everspin Technologies
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/electrocorp/' title='Electro Corp / Honeywell'>
+Electro Corp / Honeywell
+</a>
+</td><td>
+<a href='/epsonelectronicsamerica/' title='Epson'>
+Epson
+</a>
+</td><td>
+<a href='/evidence/' title='Evidence'>
+Evidence
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='Electro-Films (EFI) / Vishay'>
+Electro-Films (EFI) / Vishay
+</a>
+</td><td>
+<a href='/ericsson/' title='Ericsson Power Modules'>
+Ericsson Power Modules
+</a>
+</td><td>
+<a href='/evoxrifa/' title='Evox Rifa / KEMET'>
+Evox Rifa / KEMET
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/electronicassembly/' title='ELECTRONIC ASSEMBLY'>
+ELECTRONIC ASSEMBLY
+</a>
+</td><td>
+<a href='/erni-electronics/' title='ERNI Connectors'>
+ERNI Connectors
+</a>
+</td><td>
+<a href='/exar/' title='Exar'>
+Exar
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/electroswitch/' title='Electroswitch'>
+Electroswitch
+</a>
+</td><td>
+<a href='/erp/' title='ERP (Energy Recovery Products)'>
+ERP (Energy Recovery Products)
+</a>
+</td><td>
+<a href='/extech/' title='Extech'>
+Extech
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/elmwood/' title='Elmwood / Honeywell'>
+Elmwood / Honeywell
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_F'>
+<div class="mfr_header">
+<a name='F'></a>
+<h4>
+<a id='F'>
+<span id="ctl00_ContentMain_outerRpt_ctl06_lblLetter">F</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl06_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/Fairchild-Semiconductor/' title='Fairchild Semiconductor'>
+Fairchild Semiconductor
+</a>
+</td><td>
+<a href='/futuredesignsinc/' title='FDI (Future Designs, Inc)'>
+FDI (Future Designs, Inc)
+</a>
+</td><td>
+<a href='/flexipanel/' title='FlexiPanel'>
+FlexiPanel
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/fairrite/' title='Fair-Rite'>
+Fair-Rite
+</a>
+</td><td>
+<a href='/fenwal/' title='Fenwal / Honeywell'>
+Fenwal / Honeywell
+</a>
+</td><td>
+<a href='/flir/' title='FLIR Systems'>
+FLIR Systems
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/qualtek/' title='Fan-S Division / Qualtek'>
+Fan-S Division / Qualtek
+</a>
+</td><td>
+<a href='/ferrishield/' title='FerriShield / LeaderTech'>
+FerriShield / LeaderTech
+</a>
+</td><td>
+<a href='/fox/' title='Fox'>
+Fox
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/fascomp/' title='Fascomp'>
+Fascomp
+</a>
+</td><td>
+<a href='/Finisar-Corporation/' title='Finisar Corporation'>
+Finisar Corporation
+</a>
+</td><td>
+<a href='/Freescale-Semiconductor/' title='Freescale / NXP'>
+Freescale / NXP
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/fastron/' title='Fastron'>
+Fastron
+</a>
+</td><td>
+<a href='/First-Sensor/' title='First Sensor'>
+First Sensor
+</a>
+</td><td>
+<a href='/ftdi/' title='FTDI Chip'>
+FTDI Chip
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/fci/' title='FCI / Amphenol'>
+FCI / Amphenol
+</a>
+</td><td>
+<a href='/flamar/' title='Flamar'>
+Flamar
+</a>
+</td><td>
+<a href='/fujitsu/' title='Fujitsu'>
+Fujitsu
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Delphi-Connection-Systems/' title='FCI Automotive (Delphi)'>
+FCI Automotive (Delphi)
+</a>
+</td><td>
+<a href='/flambeau/' title='Flambeau'>
+Flambeau
+</a>
+</td><td>
+<a href='/futuredesignsinc/' title='Future Designs, Inc. (FDI)'>
+Future Designs, Inc. (FDI)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/fctelectronics/' title='FCT Electronics'>
+FCT Electronics
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_G'>
+<div class="mfr_header">
+<a name='G'></a>
+<h4>
+<a id='G'>
+<span id="ctl00_ContentMain_outerRpt_ctl07_lblLetter">G</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl07_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/gan-systems/' title='GaN Systems'>
+GaN Systems
+</a>
+</td><td>
+<a href='/genuino/' title='Genuino'>
+Genuino
+</a>
+</td><td>
+<a href='/grayhill/' title='Grayhill'>
+Grayhill
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/GE-Critical-Power/' title='GE Critical Power'>
+GE Critical Power
+</a>
+</td><td>
+<a href='/ghielectronics/' title='GHI Electronics'>
+GHI Electronics
+</a>
+</td><td>
+<a href='/greenlee/' title='Greenlee'>
+Greenlee
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/GE-Critical-Power/' title='GE Energy (Formerly Lineage Power)'>
+GE Energy (Formerly Lineage Power)
+</a>
+</td><td>
+<a href='/glenair/' title='Glenair'>
+Glenair
+</a>
+</td><td>
+<a href='/greenliant/' title='Greenliant'>
+Greenliant
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/amphenol-advanced-sensors/' title='GE Measurement & Control'>
+GE Measurement & Control
+</a>
+</td><td>
+<a href='/globalsp/' title='Global Specialties'>
+Global Specialties
+</a>
+</td><td>
+<a href='/gsi-technology/' title='GSI Technology'>
+GSI Technology
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='General Semiconductor / Vishay'>
+General Semiconductor / Vishay
+</a>
+</td><td>
+<a href='/gore/' title='Gore'>
+Gore
+</a>
+</td><td>
+<a href='/guerrilla-rf/' title='Guerrilla RF'>
+Guerrilla RF
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/genesicsemiconductor/' title='GeneSiC Semiconductor'>
+GeneSiC Semiconductor
+</a>
+</td><td>
+<a href='/gravitech/' title='Gravitech'>
+Gravitech
+</a>
+</td><td>
+<a href='/gw-connect/' title='GWconnect'>
+GWconnect
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_H'>
+<div class="mfr_header">
+<a name='H'></a>
+<h4>
+<a id='H'>
+<span id="ctl00_ContentMain_outerRpt_ctl08_lblLetter">H</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl08_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/halo-electronics/' title='HALO Electronics'>
+HALO Electronics
+</a>
+</td><td>
+<a href='/heatron/' title='Heatron'>
+Heatron
+</a>
+</td><td>
+<a href='/hitech/' title='HI-TECH Software'>
+HI-TECH Software
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Hamlin-Electronics/' title='Hamlin / Littelfuse'>
+Hamlin / Littelfuse
+</a>
+</td><td>
+<a href='/helicomm/' title='Helicomm'>
+Helicomm
+</a>
+</td><td>
+<a href='/hittite-microwave/' title='Hittite / Analog Devices'>
+Hittite / Analog Devices
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Hammond-Manufacturing/' title='Hammond Manufacturing'>
+Hammond Manufacturing
+</a>
+</td><td>
+<a href='/Heraeus-Sensor-Technology/' title='Heraeus Sensor Technology'>
+Heraeus Sensor Technology
+</a>
+</td><td>
+<a href='/hobbs/' title='Hobbs / Honeywell'>
+Hobbs / Honeywell
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/hantronix/' title='Hantronix'>
+Hantronix
+</a>
+</td><td>
+<a href='/heyco/' title='Heyco'>
+Heyco
+</a>
+</td><td>
+<a href='/honeywell/' title='Honeywell'>
+Honeywell
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/harting/' title='HARTING'>
+HARTING
+</a>
+</td><td>
+<a href='/vishay/' title='HiRel Systems / Vishay'>
+HiRel Systems / Vishay
+</a>
+</td><td>
+<a href='/vishay/' title='Huntington / Vishay'>
+Huntington / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/harvatek/' title='Harvatek Technologies / Inolux'>
+Harvatek Technologies / Inolux
+</a>
+</td><td>
+<a href='/hiroseconnector/' title='Hirose Electric'>
+Hirose Electric
+</a>
+</td><td>
+<a href='/hycal/' title='Hycal / Honeywell'>
+Hycal / Honeywell
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/harwin/' title='Harwin'>
+Harwin
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_I'>
+<div class="mfr_header">
+<a name='I'></a>
+<h4>
+<a id='I'>
+<span id="ctl00_ContentMain_outerRpt_ctl09_lblLetter">I</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl09_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/IAR/' title='IAR Systems'>
+IAR Systems
+</a>
+</td><td>
+<a href='/imagination-technologies/' title='Imagination Technologies'>
+Imagination Technologies
+</a>
+</td><td>
+<a href='/International-Rectifier/' title='International Rectifier / Infineon'>
+International Rectifier / Infineon
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ibase-technology/' title='iBASE Technology'>
+iBASE Technology
+</a>
+</td><td>
+<a href='/Infineon-Technologies/' title='Infineon Technologies'>
+Infineon Technologies
+</a>
+</td><td>
+<a href='/intersil/' title='Intersil Corporation'>
+Intersil Corporation
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/elpac/' title='ICCNexergy'>
+ICCNexergy
+</a>
+</td><td>
+<a href='/inolux/' title='Inolux'>
+Inolux
+</a>
+</td><td>
+<a href='/inventus-power/' title='Inventus Power'>
+Inventus Power
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/icecomponents/' title='ICE Components'>
+ICE Components
+</a>
+</td><td>
+<a href='/inspiredled/' title='Inspired LED'>
+Inspired LED
+</a>
+</td><td>
+<a href='/ipdia/' title='IPDiA'>
+IPDiA
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/idi/' title='IDI / Smiths Connectors'>
+IDI / Smiths Connectors
+</a>
+</td><td>
+<a href='/idt/' title='Integrated Device Technology (IDT)'>
+Integrated Device Technology (IDT)
+</a>
+</td><td>
+<a href='/iqd/' title='IQD'>
+IQD
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/idt/' title='IDT (Integrated Device Technology)'>
+IDT (Integrated Device Technology)
+</a>
+</td><td>
+<a href='/Intel/' title='Intel'>
+Intel
+</a>
+</td><td>
+<a href='/irc/' title='IRC / TT Electronics'>
+IRC / TT Electronics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/iei/' title='IEI Technology'>
+IEI Technology
+</a>
+</td><td>
+<a href='/altera/' title='Intel / Altera'>
+Intel / Altera
+</a>
+</td><td>
+<a href='/issi/' title='ISSI'>
+ISSI
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ietlabs/' title='IET Labs'>
+IET Labs
+</a>
+</td><td>
+<a href='/interfet/' title='InterFET'>
+InterFET
+</a>
+</td><td>
+<a href='/itwswitches/' title='ITW Switches'>
+ITW Switches
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/illinois-capacitor/' title='Illinois Capacitor / CDE'>
+Illinois Capacitor / CDE
+</a>
+</td><td>
+<a href='/intlpower/' title='International Power'>
+International Power
+</a>
+</td><td>
+<a href='/ixys/' title='IXYS'>
+IXYS
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/illumitex/' title='Illumitex'>
+Illumitex
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_J'>
+<div class="mfr_header">
+<a name='J'></a>
+<h4>
+<a id='J'>
+<span id="ctl00_ContentMain_outerRpt_ctl10_lblLetter">J</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl10_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/JAE-Electronics/' title='JAE Electronics'>
+JAE Electronics
+</a>
+</td><td>
+<a href='/Johanson-Technology/' title='Johanson Technology'>
+Johanson Technology
+</a>
+</td><td>
+<a href='/njr/' title='JRC / NJR (New Japan Radio)'>
+JRC / NJR (New Japan Radio)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/modutec/' title='Jewell Modutec'>
+Jewell Modutec
+</a>
+</td><td>
+<a href='/johnson/' title='Johnson / Cinch Connectivity Solutions'>
+Johnson / Cinch Connectivity Solutions
+</a>
+</td><td>
+<a href='/jst-connectors/' title='JST Automotive Connectors'>
+JST Automotive Connectors
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/jkllamps/' title='JKL Components'>
+JKL Components
+</a>
+</td><td>
+<a href='/jonard-industries/' title='Jonard Industries'>
+Jonard Industries
+</a>
+</td><td>
+<a href='/jwmiller/' title='JW Miller / Bourns'>
+JW Miller / Bourns
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Johanson-Dielectrics/' title='Johanson Dielectrics'>
+Johanson Dielectrics
+</a>
+</td><td>
+<a href='/jrc/' title='JRC / NJR (New Japan Radio)'>
+JRC / NJR (New Japan Radio)
+</a>
+</td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_K'>
+<div class="mfr_header">
+<a name='K'></a>
+<h4>
+<a id='K'>
+<span id="ctl00_ContentMain_outerRpt_ctl11_lblLetter">K</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl11_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/kamaya/' title='Kamaya'>
+Kamaya
+</a>
+</td><td>
+<a href='/kester/' title='Kester'>
+Kester
+</a>
+</td><td>
+<a href='/kionix/' title='Kionix / ROHM Semiconductor'>
+Kionix / ROHM Semiconductor
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Ka-Ro-electronics/' title='Ka-Ro Electronics'>
+Ka-Ro Electronics
+</a>
+</td><td>
+<a href='/keterex/' title='Keterex'>
+Keterex
+</a>
+</td><td>
+<a href='/knowles-corp/' title='Knowles'>
+Knowles
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/kavlico/' title='Kavlico'>
+Kavlico
+</a>
+</td><td>
+<a href='/keystone/' title='Keystone Electronics'>
+Keystone Electronics
+</a>
+</td><td>
+<a href='/koa/' title='KOA Speer'>
+KOA Speer
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Keil-Tools/' title='Keil Tools'>
+Keil Tools
+</a>
+</td><td>
+<a href='/te-kilovac/' title='Kilovac / TE Connectivity'>
+Kilovac / TE Connectivity
+</a>
+</td><td>
+<a href='/kycon/' title='Kycon'>
+Kycon
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Kemet-Electronics/' title='KEMET Electronics'>
+KEMET Electronics
+</a>
+</td><td>
+<a href='/kingbright/' title='Kingbright'>
+Kingbright
+</a>
+</td><td>
+<a href='/kyocera/' title='Kyocera'>
+Kyocera
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_L'>
+<div class="mfr_header">
+<a name='L'></a>
+<h4>
+<a id='L'>
+<span id="ctl00_ContentMain_outerRpt_ctl12_lblLetter">L</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl12_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/lairdtechnologies/' title='Laird Technologies'>
+Laird Technologies
+</a>
+</td><td>
+<a href='/ledil/' title='Ledil'>
+Ledil
+</a>
+</td><td>
+<a href='/lorlin/' title='Lorlin'>
+Lorlin
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/eswitch/' title='Lamb Industries'>
+Lamb Industries
+</a>
+</td><td>
+<a href='/ledlinkoptics/' title='LedLink Optics'>
+LedLink Optics
+</a>
+</td><td>
+<a href='/lprs/' title='Low Power Radio Solutions (LPRS)'>
+Low Power Radio Solutions (LPRS)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/tdklambda/' title='Lambda Power / TDK'>
+Lambda Power / TDK
+</a>
+</td><td>
+<a href='/lemo/' title='LEMO'>
+LEMO
+</a>
+</td><td>
+<a href='/lprs/' title='LPRS (Low Power Radio Solutions)'>
+LPRS (Low Power Radio Solutions)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/lamina/' title='Lamina'>
+Lamina
+</a>
+</td><td>
+<a href='/leopardimaging/' title='Leopard Imaging'>
+Leopard Imaging
+</a>
+</td><td>
+<a href='/LS-Research/' title='LS Research'>
+LS Research
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/lantronix/' title='Lantronix'>
+Lantronix
+</a>
+</td><td>
+<a href='/lhvpower/' title='LHV Power Corporation'>
+LHV Power Corporation
+</a>
+</td><td>
+<a href='/lsi/' title='LSI Corporation'>
+LSI Corporation
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/rohmsemiconductor/' title='Lapis Semiconductor / ROHM Semiconductor'>
+Lapis Semiconductor / ROHM Semiconductor
+</a>
+</td><td>
+<a href='/lineagepower/' title='Lineage Power / GE Critical Power'>
+Lineage Power / GE Critical Power
+</a>
+</td><td>
+<a href='/amphenol-ltw/' title='LTW / Amphenol'>
+LTW / Amphenol
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Lattice-Semiconductor/' title='Lattice Semiconductor'>
+Lattice Semiconductor
+</a>
+</td><td>
+<a href='/linx/' title='Linx Technologies'>
+Linx Technologies
+</a>
+</td><td>
+<a href='/lumex/' title='Lumex'>
+Lumex
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/leadertech/' title='LeaderTech'>
+LeaderTech
+</a>
+</td><td>
+<a href='/lippert/' title='LiPPERT By ADLINK'>
+LiPPERT By ADLINK
+</a>
+</td><td>
+<a href='/lumileds/' title='Lumileds'>
+Lumileds
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/lebow/' title='Lebow / Honeywell'>
+Lebow / Honeywell
+</a>
+</td><td>
+<a href='/Lite-On/' title='Lite-On'>
+Lite-On
+</a>
+</td><td>
+<a href='/luminarymicro/' title='Luminary Micro'>
+Luminary Micro
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Teledyne-Lecroy/' title='LeCroy'>
+LeCroy
+</a>
+</td><td>
+<a href='/littelfuse/' title='Littelfuse'>
+Littelfuse
+</a>
+</td><td>
+<a href='/Luminus-Devices/' title='Luminus Devices'>
+Luminus Devices
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ledengin/' title='LED Engin'>
+LED Engin
+</a>
+</td><td>
+<a href='/lmbheeger/' title='LMB / Heeger'>
+LMB / Heeger
+</a>
+</td><td>
+<a href='/luxo/' title='Luxo Corporation'>
+Luxo Corporation
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_M'>
+<div class="mfr_header">
+<a name='M'></a>
+<h4>
+<a id='M'>
+<span id="ctl00_ContentMain_outerRpt_ctl13_lblLetter">M</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl13_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/macomtech/' title='MACOM'>
+MACOM
+</a>
+</td><td>
+<a href='/meder/' title='MEDER electronic (Standex)'>
+MEDER electronic (Standex)
+</a>
+</td><td>
+<a href='/microtips/' title='Microtips Technology'>
+Microtips Technology
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/macraigor/' title='Macraigor Systems'>
+Macraigor Systems
+</a>
+</td><td>
+<a href='/meggitt/' title='Meggitt Electronic Components'>
+Meggitt Electronic Components
+</a>
+</td><td>
+<a href='/Wurth-Electronics-Midcom/' title='Midcom / Wurth Electronics'>
+Midcom / Wurth Electronics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/maestrowireless/' title='Maestro Wireless Solutions'>
+Maestro Wireless Solutions
+</a>
+</td><td>
+<a href='/melexis/' title='Melexis'>
+Melexis
+</a>
+</td><td>
+<a href='/Mide-Technology/' title='Mide Technology'>
+Mide Technology
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/magnecraft/' title='Magnecraft'>
+Magnecraft
+</a>
+</td><td>
+<a href='/memsic/' title='MEMSIC'>
+MEMSIC
+</a>
+</td><td>
+<a href='/midwest-microwave/' title='Midwest Microwave / Cinch Connectivity Solutions'>
+Midwest Microwave / Cinch Connectivity Solutions
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/mallory/' title='Mallory'>
+Mallory
+</a>
+</td><td>
+<a href='/mendapump/' title='Menda'>
+Menda
+</a>
+</td><td>
+<a href='/mikroelektronika/' title='MikroElektronika'>
+MikroElektronika
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/mallory-sonalert/' title='Mallory Sonalert'>
+Mallory Sonalert
+</a>
+</td><td>
+<a href='/merit-sensor/' title='Merit Sensor'>
+Merit Sensor
+</a>
+</td><td>
+<a href='/mill-max/' title='Mill-Max'>
+Mill-Max
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/marquardt-switches/' title='Marquardt Switches Inc'>
+Marquardt Switches Inc
+</a>
+</td><td>
+<a href='/Metcal/' title='Metcal'>
+Metcal
+</a>
+</td><td>
+<a href='/vishay/' title='Mills / Vishay'>
+Mills / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/matrixorbital/' title='Matrix Orbital'>
+Matrix Orbital
+</a>
+</td><td>
+<a href='/mgchemicals/' title='MG Chemicals'>
+MG Chemicals
+</a>
+</td><td>
+<a href='/vishay/' title='Milwaukee / Vishay'>
+Milwaukee / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/maxim-integrated/' title='Maxim Integrated'>
+Maxim Integrated
+</a>
+</td><td>
+<a href='/Micrel-Semiconductor/' title='Micrel / Microchip'>
+Micrel / Microchip
+</a>
+</td><td>
+<a href='/MinnowBoard/' title='MinnowBoard by CircuitCo'>
+MinnowBoard by CircuitCo
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/maxstream/' title='MaxStream'>
+MaxStream
+</a>
+</td><td>
+<a href='/micrium/' title='Micrium'>
+Micrium
+</a>
+</td><td>
+<a href='/mitsubishielectric/' title='Mitsubishi Electric'>
+Mitsubishi Electric
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/maxwell/' title='Maxwell Technologies'>
+Maxwell Technologies
+</a>
+</td><td>
+<a href='/mccsemi/' title='Micro Commercial Components (MCC)'>
+Micro Commercial Components (MCC)
+</a>
+</td><td>
+<a href='/molex/' title='Molex'>
+Molex
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='MCB Industrie / Vishay'>
+MCB Industrie / Vishay
+</a>
+</td><td>
+<a href='/microswitch/' title='MICRO SWITCH / Honeywell'>
+MICRO SWITCH / Honeywell
+</a>
+</td><td>
+<a href='/monolithicpowersystems/' title='Monolithic Power Systems (MPS)'>
+Monolithic Power Systems (MPS)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/mccsemi/' title='MCC (Micro Commercial Components)'>
+MCC (Micro Commercial Components)
+</a>
+</td><td>
+<a href='/microchip/' title='Microchip Technology'>
+Microchip Technology
+</a>
+</td><td>
+<a href='/monolithicpowersystems/' title='MPS - Monolithic Power Systems'>
+MPS - Monolithic Power Systems
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/mcube/' title='mCube'>
+mCube
+</a>
+</td><td>
+<a href='/micronas/' title='Micronas'>
+Micronas
+</a>
+</td><td>
+<a href='/measurement-specialties/' title='MSI'>
+MSI
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/meanwell/' title='Mean Well'>
+Mean Well
+</a>
+</td><td>
+<a href='/micropelt/' title='Micropelt'>
+Micropelt
+</a>
+</td><td>
+<a href='/mueller/' title='Mueller Electric'>
+Mueller Electric
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/measurement-specialties/' title='Measurement Specialties / TE Connectivity'>
+Measurement Specialties / TE Connectivity
+</a>
+</td><td>
+<a href='/microsemi/' title='Microsemi'>
+Microsemi
+</a>
+</td><td>
+<a href='/Murata/' title='Murata'>
+Murata
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/mec-switches/' title='MEC Switches'>
+MEC Switches
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_N'>
+<div class="mfr_header">
+<a name='N'></a>
+<h4>
+<a id='N'>
+<span id="ctl00_ContentMain_outerRpt_ctl14_lblLetter">N</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl14_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/national-instruments/' title='National Instruments'>
+National Instruments
+</a>
+</td><td>
+<a href='/newageenclosures/' title='New Age Enclosures'>
+New Age Enclosures
+</a>
+</td><td>
+<a href='/nmb-technologies/' title='NMB Technologies'>
+NMB Technologies
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/nationalsemiconductor/' title='National Semiconductor / TI'>
+National Semiconductor / TI
+</a>
+</td><td>
+<a href='/newhavendisplay/' title='Newhaven Display'>
+Newhaven Display
+</a>
+</td><td>
+<a href='/norcomp/' title='NorComp'>
+NorComp
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/nec/' title='NEC Relays'>
+NEC Relays
+</a>
+</td><td>
+<a href='/nexperia/' title='Nexperia'>
+Nexperia
+</a>
+</td><td>
+<a href='/nordicsemiconductor/' title='Nordic Semiconductor'>
+Nordic Semiconductor
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Kemet-NEC-Tokin/' title='NEC-TOKIN / KEMET'>
+NEC-TOKIN / KEMET
+</a>
+</td><td>
+<a href='/nextreme/' title='Nextreme Thermal Solutions'>
+Nextreme Thermal Solutions
+</a>
+</td><td>
+<a href='/noritake/' title='Noritake'>
+Noritake
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/nei/' title='NEI / Honeywell'>
+NEI / Honeywell
+</a>
+</td><td>
+<a href='/national-instruments/' title='NI'>
+NI
+</a>
+</td><td>
+<a href='/novacap/' title='NOVACAP / Knowles'>
+NOVACAP / Knowles
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/netburner/' title='NetBurner'>
+NetBurner
+</a>
+</td><td>
+<a href='/nichicon/' title='Nichicon'>
+Nichicon
+</a>
+</td><td>
+<a href='/novasensor/' title='NovaSensor / GE M&C'>
+NovaSensor / GE M&C
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/netduino/' title='Netduino'>
+Netduino
+</a>
+</td><td>
+<a href='/njr/' title='NJR (New Japan Radio)'>
+NJR (New Japan Radio)
+</a>
+</td><td>
+<a href='/nurvenetworks/' title='Nurve Networks'>
+Nurve Networks
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/netpower/' title='NetPower Technologies'>
+NetPower Technologies
+</a>
+</td><td>
+<a href='/NKK-Switches/' title='NKK Switches'>
+NKK Switches
+</a>
+</td><td>
+<a href='/nxp-semiconductors/' title='NXP Semiconductors'>
+NXP Semiconductors
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/neutrik/' title='Neutrik'>
+Neutrik
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_O'>
+<div class="mfr_header">
+<a name='O'></a>
+<h4>
+<a id='O'>
+<span id="ctl00_ContentMain_outerRpt_ctl15_lblLetter">O</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl15_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/octavo-systems/' title='Octavo Systems'>
+Octavo Systems
+</a>
+</td><td>
+<a href='/Omron-Electronics/' title='Omron'>
+Omron
+</a>
+</td><td>
+<a href='/opulent-na/' title='Opulent North America'>
+Opulent North America
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/oeg/' title='OEG / TE Connectivity'>
+OEG / TE Connectivity
+</a>
+</td><td>
+<a href='/onsemiconductor/' title='ON Semiconductor'>
+ON Semiconductor
+</a>
+</td><td>
+<a href='/orion/' title='Orion Fans'>
+Orion Fans
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ohmite/' title='Ohmite'>
+Ohmite
+</a>
+</td><td>
+<a href='/oplink/' title='Oplink'>
+Oplink
+</a>
+</td><td>
+<a href='/osram/' title='OSRAM Opto Semiconductors'>
+OSRAM Opto Semiconductors
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/okindustries/' title='OK Industries / Jonard'>
+OK Industries / Jonard
+</a>
+</td><td>
+<a href='/optek/' title='Optek / TT Electronics'>
+Optek / TT Electronics
+</a>
+</td><td>
+<a href='/OTTO/' title='OTTO'>
+OTTO
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/olimex/' title='Olimex Ltd.'>
+Olimex Ltd.
+</a>
+</td><td>
+<a href='/optrex/' title='Optrex / Kyocera'>
+Optrex / Kyocera
+</a>
+</td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_P'>
+<div class="mfr_header">
+<a name='P'></a>
+<h4>
+<a id='P'>
+<span id="ctl00_ContentMain_outerRpt_ctl16_lblLetter">P</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl16_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/packard-electric/' title='Packard Electric / Delphi'>
+Packard Electric / Delphi
+</a>
+</td><td>
+<a href='/Philips-Lumileds/' title='Philips Lumileds'>
+Philips Lumileds
+</a>
+</td><td>
+<a href='/amseco/' title='Potter / AMSECO'>
+Potter / AMSECO
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/pactec/' title='PacTec'>
+PacTec
+</a>
+</td><td>
+<a href='/philips-semiconductors/' title='Philips Semiconductors'>
+Philips Semiconductors
+</a>
+</td><td>
+<a href='/power-dynamics/' title='Power Dynamics'>
+Power Dynamics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/panasonic/' title='Panasonic'>
+Panasonic
+</a>
+</td><td>
+<a href='/Phoenix-Contact/' title='Phoenix Contact'>
+Phoenix Contact
+</a>
+</td><td>
+<a href='/Power-Integrations/' title='Power Integrations'>
+Power Integrations
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/panavise/' title='Panavise'>
+Panavise
+</a>
+</td><td>
+<a href='/yageo/' title='Phycomp / Yageo'>
+Phycomp / Yageo
+</a>
+</td><td>
+<a href='/powercast/' title='Powercast'>
+Powercast
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/pandaboardorg/' title='PandaBoard.org'>
+PandaBoard.org
+</a>
+</td><td>
+<a href='/piher/' title='Piher'>
+Piher
+</a>
+</td><td>
+<a href='/powerone/' title='Power-One'>
+Power-One
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/panduit/' title='Panduit'>
+Panduit
+</a>
+</td><td>
+<a href='/plato/' title='Plato'>
+Plato
+</a>
+</td><td>
+<a href='/powersonic/' title='Power-Sonic'>
+Power-Sonic
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/parallax/' title='Parallax'>
+Parallax
+</a>
+</td><td>
+<a href='/Plessey-Semiconductors/' title='Plessey Semiconductors'>
+Plessey Semiconductors
+</a>
+</td><td>
+<a href='/powerstor/' title='PowerStor / Eaton'>
+PowerStor / Eaton
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/triad/' title='Parallax Power'>
+Parallax Power
+</a>
+</td><td>
+<a href='/pletronics/' title='Pletronics Inc.'>
+Pletronics Inc.
+</a>
+</td><td>
+<a href='/puiaudio/' title='Projects Unlimited'>
+Projects Unlimited
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/particle/' title='Particle'>
+Particle
+</a>
+</td><td>
+<a href='/plxtechnology/' title='PLX Technology / Broadcom'>
+PLX Technology / Broadcom
+</a>
+</td><td>
+<a href='/protektivepak/' title='Protektive Pak'>
+Protektive Pak
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/amphenolpcd/' title='PCD / Amphenol'>
+PCD / Amphenol
+</a>
+</td><td>
+<a href='/vishay/' title='Polytech / Vishay'>
+Polytech / Vishay
+</a>
+</td><td>
+<a href='/puiaudio/' title='PUI Audio'>
+PUI Audio
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/pericom/' title='Pericom'>
+Pericom
+</a>
+</td><td>
+<a href='/Pomona-Electronics/' title='Pomona Electronics'>
+Pomona Electronics
+</a>
+</td><td>
+<a href='/pulse/' title='Pulse'>
+Pulse
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/phihong/' title='Phihong'>
+Phihong
+</a>
+</td><td>
+<a href='/pandbrelays/' title='Potter & Brumfield / TE Connectivity'>
+Potter & Brumfield / TE Connectivity
+</a>
+</td><td>
+<a href='/onsemiconductor/' title='PulseCore Semiconductor (ON Semiconductor)'>
+PulseCore Semiconductor (ON Semiconductor)
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_Q'>
+<div class="mfr_header">
+<a name='Q'></a>
+<h4>
+<a id='Q'>
+<span id="ctl00_ContentMain_outerRpt_ctl17_lblLetter">Q</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl17_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/teqcees/' title='Q-Cee's / TE Connectivity'>
+Q-Cee's / TE Connectivity
+</a>
+</td><td>
+<a href='/rf360-technologies/' title='Qualcomm'>
+Qualcomm
+</a>
+</td><td>
+<a href='/quantumresearchgroup/' title='Quantum Research Group'>
+Quantum Research Group
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/qorvo/' title='Qorvo'>
+Qorvo
+</a>
+</td><td>
+<a href='/qualtek/' title='Qualtek Electronics'>
+Qualtek Electronics
+</a>
+</td><td>
+<a href='/quatech/' title='Quatech / B&B Electronics'>
+Quatech / B&B Electronics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/qspeed/' title='Qspeed Semiconductor'>
+Qspeed Semiconductor
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_R'>
+<div class="mfr_header">
+<a name='R'></a>
+<h4>
+<a id='R'>
+<span id="ctl00_ContentMain_outerRpt_ctl18_lblLetter">R</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl18_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/Rabbit-Semiconductor/' title='Rabbit Semiconductor'>
+Rabbit Semiconductor
+</a>
+</td><td>
+<a href='/red-pitaya/' title='Red Pitaya'>
+Red Pitaya
+</a>
+</td><td>
+<a href='/rfm/' title='RFM'>
+RFM
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Radiall/' title='Radiall'>
+Radiall
+</a>
+</td><td>
+<a href='/redel-connectors/' title='REDEL / LEMO'>
+REDEL / LEMO
+</a>
+</td><td>
+<a href='/rfmd/' title='RFMD'>
+RFMD
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/radiotronix/' title='Radiotronix'>
+Radiotronix
+</a>
+</td><td>
+<a href='/redpine-signals/' title='Redpine Signals'>
+Redpine Signals
+</a>
+</td><td>
+<a href='/ricoh-electronics/' title='Ricoh Electronic Devices Company'>
+Ricoh Electronic Devices Company
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/raf/' title='RAF Electronic Hardware'>
+RAF Electronic Hardware
+</a>
+</td><td>
+<a href='/reflex-ces/' title='ReFLEX CES'>
+ReFLEX CES
+</a>
+</td><td>
+<a href='/riotboard/' title='RIoTboard'>
+RIoTboard
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ramtron/' title='Ramtron'>
+Ramtron
+</a>
+</td><td>
+<a href='/renata/' title='Renata'>
+Renata
+</a>
+</td><td>
+<a href='/vishay/' title='Roederstein / Vishay'>
+Roederstein / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/raychem/' title='Raychem / TE Connectivity'>
+Raychem / TE Connectivity
+</a>
+</td><td>
+<a href='/renesas/' title='Renesas Electronics'>
+Renesas Electronics
+</a>
+</td><td>
+<a href='/rohmsemiconductor/' title='ROHM Semiconductor'>
+ROHM Semiconductor
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/littelfuse/' title='Raychem CP / Littelfuse'>
+Raychem CP / Littelfuse
+</a>
+</td><td>
+<a href='/rfdigital/' title='RF Digital'>
+RF Digital
+</a>
+</td><td>
+<a href='/rosenberger/' title='Rosenberger'>
+Rosenberger
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/rean-connectors/' title='REAN Connectors'>
+REAN Connectors
+</a>
+</td><td>
+<a href='/rf360-technologies/' title='RF360 / Qualcomm'>
+RF360 / Qualcomm
+</a>
+</td><td>
+<a href='/rovingnetworks/' title='Roving Networks / Microchip'>
+Roving Networks / Microchip
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/RECOM/' title='RECOM'>
+RECOM
+</a>
+</td><td>
+<a href='/rfaxis/' title='RFaxis / Skyworks Solutions Inc.'>
+RFaxis / Skyworks Solutions Inc.
+</a>
+</td><td>
+<a href='/rowley/' title='Rowley Associates'>
+Rowley Associates
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/rectron/' title='Rectron'>
+Rectron
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_S'>
+<div class="mfr_header">
+<a name='S'></a>
+<h4>
+<a id='S'>
+<span id="ctl00_ContentMain_outerRpt_ctl19_lblLetter">S</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl19_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/sagrad/' title='Sagrad Inc.'>
+Sagrad Inc.
+</a>
+</td><td>
+<a href='/shindengen/' title='Shindengen'>
+Shindengen
+</a>
+</td><td>
+<a href='/sparkfun/' title='SparkFun'>
+SparkFun
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/samsung-artik/' title='Samsung ARTIK'>
+Samsung ARTIK
+</a>
+</td><td>
+<a href='/bel-signal-transformer/' title='Signal Transformer / Bel'>
+Signal Transformer / Bel
+</a>
+</td><td>
+<a href='/spectrasymbol/' title='Spectra Symbol'>
+Spectra Symbol
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sandisk/' title='SanDisk'>
+SanDisk
+</a>
+</td><td>
+<a href='/signum/' title='Signum Systems'>
+Signum Systems
+</a>
+</td><td>
+<a href='/amphenolspectrastrip/' title='Spectra-Strip / Amphenol'>
+Spectra-Strip / Amphenol
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sanyo-denki/' title='Sanyo Denki'>
+Sanyo Denki
+</a>
+</td><td>
+<a href='/silego-technology/' title='Silego Technology'>
+Silego Technology
+</a>
+</td><td>
+<a href='/vishay/' title='Spectrol / Vishay'>
+Spectrol / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sanyosemiconductor/' title='Sanyo Semiconductor / ON Semiconductor'>
+Sanyo Semiconductor / ON Semiconductor
+</a>
+</td><td>
+<a href='/silextechnology/' title='Silex Technology'>
+Silex Technology
+</a>
+</td><td>
+<a href='/spectrumcontrol/' title='Spectrum Control'>
+Spectrum Control
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sargent/' title='Sargent Tools'>
+Sargent Tools
+</a>
+</td><td>
+<a href='/Silicon-Laboratories/' title='Silicon Labs'>
+Silicon Labs
+</a>
+</td><td>
+<a href='/vishay/' title='Sprague / Vishay'>
+Sprague / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/schaffner/' title='Schaffner'>
+Schaffner
+</a>
+</td><td>
+<a href='/silicon-microstructures/' title='Silicon Microstructures, Inc. (SMI)'>
+Silicon Microstructures, Inc. (SMI)
+</a>
+</td><td>
+<a href='/spraguegoodman/' title='Sprague Goodman'>
+Sprague Goodman
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/schmartboard/' title='SchmartBoard'>
+SchmartBoard
+</a>
+</td><td>
+<a href='/vishay/' title='Siliconix / Vishay'>
+Siliconix / Vishay
+</a>
+</td><td>
+<a href='/sst/' title='SST'>
+SST
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Schneider-Electric/' title='Schneider Electric'>
+Schneider Electric
+</a>
+</td><td>
+<a href='/silvertronic/' title='Silvertronic'>
+Silvertronic
+</a>
+</td><td>
+<a href='/staco/' title='Staco'>
+Staco
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/schurter/' title='Schurter'>
+Schurter
+</a>
+</td><td>
+<a href='/simpson/' title='Simpson Electric Company'>
+Simpson Electric Company
+</a>
+</td><td>
+<a href='/meder/' title='Standex'>
+Standex
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/scs/' title='SCS'>
+SCS
+</a>
+</td><td>
+<a href='/amphenolsine/' title='SINE Systems / Amphenol'>
+SINE Systems / Amphenol
+</a>
+</td><td>
+<a href='/startco/' title='Startco'>
+Startco
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/seeedstudio/' title='Seeed Studio'>
+Seeed Studio
+</a>
+</td><td>
+<a href='/sitime/' title='SiTime'>
+SiTime
+</a>
+</td><td>
+<a href='/stec/' title='STEC'>
+STEC
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/segger/' title='SEGGER Microcontroller'>
+SEGGER Microcontroller
+</a>
+</td><td>
+<a href='/skyetek/' title='SkyeTek'>
+SkyeTek
+</a>
+</td><td>
+<a href='/stewart-connector/' title='Stewart Connector / Bel'>
+Stewart Connector / Bel
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/semelab/' title='Semelab / TT Electronics'>
+Semelab / TT Electronics
+</a>
+</td><td>
+<a href='/skyworks-solutions/' title='Skyworks Solutions Inc.'>
+Skyworks Solutions Inc.
+</a>
+</td><td>
+<a href='/stmicroelectronics/' title='STMicroelectronics'>
+STMicroelectronics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/semflex/' title='Semflex / Cinch Connectivity Solutions'>
+Semflex / Cinch Connectivity Solutions
+</a>
+</td><td>
+<a href='/slpower/' title='SL Power'>
+SL Power
+</a>
+</td><td>
+<a href='/storm-interface/' title='Storm Interface'>
+Storm Interface
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/semitec/' title='Semitec USA'>
+Semitec USA
+</a>
+</td><td>
+<a href='/smart-modular/' title='SMART Modular Technologies'>
+SMART Modular Technologies
+</a>
+</td><td>
+<a href='/stratos/' title='Stratos / Cinch Connectivity Solutions'>
+Stratos / Cinch Connectivity Solutions
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/semtech/' title='Semtech'>
+Semtech
+</a>
+</td><td>
+<a href='/bb-smartworx/' title='Smartworx'>
+Smartworx
+</a>
+</td><td>
+<a href='/sumida/' title='Sumida'>
+Sumida
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sensata-technologies/' title='Sensata Technologies'>
+Sensata Technologies
+</a>
+</td><td>
+<a href='/silicon-microstructures/' title='SMI (Silicon Microstructures Inc.)'>
+SMI (Silicon Microstructures Inc.)
+</a>
+</td><td>
+<a href='/sunbank/' title='Sunbank'>
+Sunbank
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sensirion/' title='Sensirion'>
+Sensirion
+</a>
+</td><td>
+<a href='/smsc/' title='SMSC'>
+SMSC
+</a>
+</td><td>
+<a href='/sunbrite/' title='Sunbrite'>
+Sunbrite
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sensotec/' title='Sensotec / Honeywell'>
+Sensotec / Honeywell
+</a>
+</td><td>
+<a href='/sola/' title='Sola / Hevi-Duty'>
+Sola / Hevi-Duty
+</a>
+</td><td>
+<a href='/supertex/' title='Supertex'>
+Supertex
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sensym/' title='Sensym / Honeywell'>
+Sensym / Honeywell
+</a>
+</td><td>
+<a href='/soldercore/' title='SolderCore'>
+SolderCore
+</a>
+</td><td>
+<a href='/susumu/' title='Susumu'>
+Susumu
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/seoulsemiconductor/' title='Seoul Semiconductor'>
+Seoul Semiconductor
+</a>
+</td><td>
+<a href='/somnium-technologies/' title='SOMNIUM Technologies'>
+SOMNIUM Technologies
+</a>
+</td><td>
+<a href='/svmicrowave/' title='SV Microwave / Amphenol'>
+SV Microwave / Amphenol
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/serpac/' title='Serpac'>
+Serpac
+</a>
+</td><td>
+<a href='/songchuan/' title='Song Chuan'>
+Song Chuan
+</a>
+</td><td>
+<a href='/Swissbit/' title='Swissbit'>
+Swissbit
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='Sfernice / Vishay'>
+Sfernice / Vishay
+</a>
+</td><td>
+<a href='/souriau/' title='Souriau'>
+Souriau
+</a>
+</td><td>
+<a href='/switchcraft/' title='Switchcraft'>
+Switchcraft
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/sharkscove/' title='Sharks Cove by CircuitCo'>
+Sharks Cove by CircuitCo
+</a>
+</td><td>
+<a href='/spansion/' title='Spansion / Cypress Semiconductor'>
+Spansion / Cypress Semiconductor
+</a>
+</td><td>
+<a href='/syfer/' title='Syfer / Knowles'>
+Syfer / Knowles
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Sharpsma/' title='Sharp Microelectronics'>
+Sharp Microelectronics
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_T'>
+<div class="mfr_header">
+<a name='T'></a>
+<h4>
+<a id='T'>
+<span id="ctl00_ContentMain_outerRpt_ctl20_lblLetter">T</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl20_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/Tadiran-Batteries/' title='Tadiran Batteries'>
+Tadiran Batteries
+</a>
+</td><td>
+<a href='/Teledyne-Lecroy/' title='Teledyne LeCroy'>
+Teledyne LeCroy
+</a>
+</td><td>
+<a href='/traco-power/' title='TRACO Power'>
+TRACO Power
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/taica/' title='Taica'>
+Taica
+</a>
+</td><td>
+<a href='/teledyne/' title='Teledyne Relays'>
+Teledyne Relays
+</a>
+</td><td>
+<a href='/triaccess/' title='TriAccess Technologies'>
+TriAccess Technologies
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Taiwan-Semiconductor/' title='Taiwan Semiconductor'>
+Taiwan Semiconductor
+</a>
+</td><td>
+<a href='/telemecanique/' title='Telemecanique'>
+Telemecanique
+</a>
+</td><td>
+<a href='/triad/' title='Triad Magnetics'>
+Triad Magnetics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Taiyo-Yuden/' title='Taiyo Yuden'>
+Taiyo Yuden
+</a>
+</td><td>
+<a href='/tempflex/' title='Temp-Flex Cable, Inc.'>
+Temp-Flex Cable, Inc.
+</a>
+</td><td>
+<a href='/Tripp-Lite/' title='Tripp Lite'>
+Tripp Lite
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/tamura/' title='Tamura'>
+Tamura
+</a>
+</td><td>
+<a href='/tempo-semiconductor/' title='Tempo Semiconductor'>
+Tempo Semiconductor
+</a>
+</td><td>
+<a href='/triquintsemiconductor/' title='TriQuint Semiconductor'>
+TriQuint Semiconductor
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/taoglas/' title='Taoglas'>
+Taoglas
+</a>
+</td><td>
+<a href='/terasic-technologies/' title='Terasic Technologies'>
+Terasic Technologies
+</a>
+</td><td>
+<a href='/tristar-electronics/' title='Tri-Star Electronics'>
+Tri-Star Electronics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/taos/' title='TAOS / ams'>
+TAOS / ams
+</a>
+</td><td>
+<a href='/teridian/' title='Teridian Semiconductor'>
+Teridian Semiconductor
+</a>
+</td><td>
+<a href='/triunesystems/' title='Triune Systems'>
+Triune Systems
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/amphenoltcs/' title='TCS/Amphenol'>
+TCS/Amphenol
+</a>
+</td><td>
+<a href='/Texas-Instruments/' title='Texas Instruments'>
+Texas Instruments
+</a>
+</td><td>
+<a href='/trompeter/' title='Trompeter / Cinch Connectivity Solutions'>
+Trompeter / Cinch Connectivity Solutions
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/tdk-corp/' title='TDK Corporation'>
+TDK Corporation
+</a>
+</td><td>
+<a href='/thatcorporation/' title='THAT Corporation'>
+THAT Corporation
+</a>
+</td><td>
+<a href='/trp-connector/' title='TRP Connector / Bel'>
+TRP Connector / Bel
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/tdklambda/' title='TDK-Lambda'>
+TDK-Lambda
+</a>
+</td><td>
+<a href='/thermometrics/' title='Thermometrics / GE M&C'>
+Thermometrics / GE M&C
+</a>
+</td><td>
+<a href='/ttelectronics/' title='TT Electronics'>
+TT Electronics
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/TE-Connectivity/' title='TE Connectivity'>
+TE Connectivity
+</a>
+</td><td>
+<a href='/vishay/' title='Thin Film / Vishay'>
+Thin Film / Vishay
+</a>
+</td><td>
+<a href='/amphenol-tuchel/' title='Tuchel / Amphenol'>
+Tuchel / Amphenol
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/teccor/' title='Teccor / Littelfuse'>
+Teccor / Littelfuse
+</a>
+</td><td>
+<a href='/Texas-Instruments/' title='TI'>
+TI
+</a>
+</td><td>
+<a href='/tusonix/' title='Tusonix / CTS'>
+Tusonix / CTS
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/TechNexion/' title='TechNexion'>
+TechNexion
+</a>
+</td><td>
+<a href='/murata-toko/' title='TOKO / Murata'>
+TOKO / Murata
+</a>
+</td><td>
+<a href='/twin/' title='Twin Industries'>
+Twin Industries
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vishay/' title='Techno / Vishay'>
+Techno / Vishay
+</a>
+</td><td>
+<a href='/torex-semiconductor/' title='Torex Semiconductor'>
+Torex Semiconductor
+</a>
+</td><td>
+<a href='/txc/' title='TXC'>
+TXC
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/techspray/' title='Techspray'>
+Techspray
+</a>
+</td><td>
+<a href='/Toshiba-Semiconductors/' title='Toshiba'>
+Toshiba
+</a>
+</td><td>
+<a href='/TE-Connectivity/' title='Tyco Electronics (TE Connectivity)'>
+Tyco Electronics (TE Connectivity)
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_U'>
+<div class="mfr_header">
+<a name='U'></a>
+<h4>
+<a id='U'>
+<span id="ctl00_ContentMain_outerRpt_ctl21_lblLetter">U</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl21_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/udoo/' title='UDOO'>
+UDOO
+</a>
+</td><td>
+<a href='/ucc/' title='United Chemi-Con'>
+United Chemi-Con
+</a>
+</td><td>
+<a href='/usci/' title='USCi (United Silicon Carbide, Inc.)'>
+USCi (United Silicon Carbide, Inc.)
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/ultralife/' title='Ultralife'>
+Ultralife
+</a>
+</td><td>
+<a href='/us-sensor/' title='US Sensor'>
+US Sensor
+</a>
+</td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_V'>
+<div class="mfr_header">
+<a name='V'></a>
+<h4>
+<a id='V'>
+<span id="ctl00_ContentMain_outerRpt_ctl22_lblLetter">V</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl22_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/vacuumschmelze/' title='Vacuumschmelze (VAC)'>
+Vacuumschmelze (VAC)
+</a>
+</td><td>
+<a href='/via-technologies/' title='VIA Technologies'>
+VIA Technologies
+</a>
+</td><td>
+<a href='/vitelec/' title='Vitelec / Cinch Connectivity Solutions'>
+Vitelec / Cinch Connectivity Solutions
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/varitronix/' title='Varitronix'>
+Varitronix
+</a>
+</td><td>
+<a href='/vicor/' title='Vicor'>
+Vicor
+</a>
+</td><td>
+<a href='/vitramon/' title='Vitramon / Vishay'>
+Vitramon / Vishay
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vcc/' title='VCC'>
+VCC
+</a>
+</td><td>
+<a href='/vishay/' title='Vishay'>
+Vishay
+</a>
+</td><td>
+<a href='/volexpowercords/' title='Volex'>
+Volex
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vector/' title='Vector'>
+Vector
+</a>
+</td><td>
+<a href='/Vishay-Precision-Group/' title='Vishay Precision Group'>
+Vishay Precision Group
+</a>
+</td><td>
+<a href='/voltronics/' title='Voltronics / Knowles'>
+Voltronics / Knowles
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/vectron/' title='Vectron International'>
+Vectron International
+</a>
+</td><td>
+<a href='/vcc/' title='Visual Communications Company'>
+Visual Communications Company
+</a>
+</td><td>
+<a href='/vorago-technologies/' title='VORAGO Technologies'>
+VORAGO Technologies
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/versarien-technologies/' title='Versarien Technologies'>
+Versarien Technologies
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_W'>
+<div class="mfr_header">
+<a name='W'></a>
+<h4>
+<a id='W'>
+<span id="ctl00_ContentMain_outerRpt_ctl23_lblLetter">W</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl23_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/Tripp-Lite/' title='Waber'>
+Waber
+</a>
+</td><td>
+<a href='/westerndesigncenter/' title='Western Design Center'>
+Western Design Center
+</a>
+</td><td>
+<a href='/wiremold/' title='Wiremold'>
+Wiremold
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/wahl/' title='Wahl'>
+Wahl
+</a>
+</td><td>
+<a href='/white-electronic-designs/' title='White Electronic Designs'>
+White Electronic Designs
+</a>
+</td><td>
+<a href='/wiznet/' title='WIZnet'>
+WIZnet
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/wakefield/' title='Wakefield-Vette'>
+Wakefield-Vette
+</a>
+</td><td>
+<a href='/whiterodgers/' title='White Rodgers'>
+White Rodgers
+</a>
+</td><td>
+<a href='/wjcommunications/' title='WJ Communications'>
+WJ Communications
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/walsin/' title='Walsin'>
+Walsin
+</a>
+</td><td>
+<a href='/wi2wi/' title='Wi2Wi'>
+Wi2Wi
+</a>
+</td><td>
+<a href='/gore/' title='WL Gore'>
+WL Gore
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/Wandboard/' title='Wandboard'>
+Wandboard
+</a>
+</td><td>
+<a href='/wickmann/' title='Wickmann / Littelfuse'>
+Wickmann / Littelfuse
+</a>
+</td><td>
+<a href='/wolfson/' title='Wolfson / Cirrus Logic'>
+Wolfson / Cirrus Logic
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/weller/' title='Weller'>
+Weller
+</a>
+</td><td>
+<a href='/wiha/' title='Wiha'>
+Wiha
+</a>
+</td><td>
+<a href='/wolfspeed/' title='Wolfspeed / Cree'>
+Wolfspeed / Cree
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/welwyn/' title='Welwyn / TT Electronics'>
+Welwyn / TT Electronics
+</a>
+</td><td>
+<a href='/wima/' title='WIMA'>
+WIMA
+</a>
+</td><td>
+<a href='/Wurth-Electronics/' title='Wurth Electronics'>
+Wurth Electronics
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_X'>
+<div class="mfr_header">
+<a name='X'></a>
+<h4>
+<a id='X'>
+<span id="ctl00_ContentMain_outerRpt_ctl24_lblLetter">X</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl24_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/xeltek/' title='Xeltek'>
+Xeltek
+</a>
+</td><td>
+<a href='/xsens/' title='xsens / Fairchild'>
+xsens / Fairchild
+</a>
+</td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_Y'>
+<div class="mfr_header">
+<a name='Y'></a>
+<h4>
+<a id='Y'>
+<span id="ctl00_ContentMain_outerRpt_ctl25_lblLetter">Y</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl25_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/yageo/' title='Yageo'>
+Yageo
+</a>
+</td><td></td><td></td>
+	</tr>
+</table>
+</div>
+
+<div class="mfr_group" id='group_Z'>
+<div class="mfr_header">
+<a name='Z'></a>
+<h4>
+<a id='Z'>
+<span id="ctl00_ContentMain_outerRpt_ctl26_lblLetter">Z</span>
+</a>
+</h4>
+</div>
+<table id="ctl00_ContentMain_outerRpt_ctl26_dlMfr" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href='/zarlink/' title='Zarlink Semiconductor'>
+Zarlink Semiconductor
+</a>
+</td><td>
+<a href='/zetex/' title='Zetex / Diodes Inc.'>
+Zetex / Diodes Inc.
+</a>
+</td><td>
+<a href='/zilog/' title='Zilog / IXYS'>
+Zilog / IXYS
+</a>
+</td>
+	</tr><tr>
+		<td>
+<a href='/zentri/' title='Zentri'>
+Zentri
+</a>
+</td><td>
+<a href='/zf-electronics/' title='ZF Electronics'>
+ZF Electronics
+</a>
+</td><td>
+<a href='/zmdi/' title='ZMDI'>
+ZMDI
+</a>
+</td>
+	</tr>
+</table>
+</div>
+
+</div>
+</div>
+<script type="text/javascript" src="/flash/js/jquery.scrollTo-min.js"></script>
+<script type="text/javascript" src="/flash/js/mfr_directory.js"></script>
+
+</div>
+</div>
+<script src='../flash/js/Minicart.js?v=13.9.20170317.1' type="text/javascript"></script>
+<script src='../flash/js/DataTables-1.9.4/jquery.dataTables.min.js?v=13.9.20170317.1' type="text/javascript"></script>
+<script src='../flash/js/DataTables.js?v=13.9.20170317.1' type="text/javascript"></script>
+<script src='../flash/js/jquery.hoverIntent.minified.js?v=13.9.20170317.1' type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+//]]>
+</script>
+<script type='text/javascript'>$(document).ready(function() { $(':text').blur(); });</script><script src='../flash/js/Plugin/jquery.autoSuggest.js?v=13.9.20170317.1' type='text/javascript'></script><script src='../flash/js/AutoSuggestionM4.js?v=13.9.20170317.1' type='text/javascript'></script>
+<script type="text/javascript">
+//<![CDATA[
+var auOnMsg='打开建议';var auOffMsg='关闭建议';var autoSuggestionEnabled='1';var lblMoreParts ='更多零件';
+var enableNewTypeAhead='1';var enableAtaTypeAhead='1';var enableAtaGATrackingEstimatedAjaxCalls='1';//]]>
+</script>
+<script src='../flash/js/Neo4jBase.js?v=13.9.20170317.1' type='text/javascript'></script>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function () { MiniCart.source = ''; });
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</div>
+<div id="content-container2" class="hidden">
+<div id="content-fixed-width2" class="content-fixed-width">
+
+
+</div>
+</div>
+
+<div id="footer" class="nofocus">
+    
+    <div id="ft_box" itemscope itemtype="http://schema.org/WPFooter">
+        <div class="container-fluid ft_wrapper">
+            <div id="ft_links" class="row">
+                
+                <div class="col-xs-3 col-sm-3 ft_column4">
+                    <strong class="paddingTop10 paddingBtm10 inline-block">快速电子邮件注册</strong>
+                    <div id="form-horizontal" class="ft_signup">
+                        <input type="text" id="txtQuickSubsEmail" maxlength="48" title="电子邮件地址" />
+                        <a class="btn orange" onclick="return QuickSignUp();" href="#">订阅</a>
+                    </div>
+                    <div id="ft_icons" class="ft_icons">
+                            <div class="ft_icons_group">
+                                    <a href="/wechat" title="微信" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;Social Media Footer Icon&#39;,&#39;Wechat&#39;,this.href);"><div class="ico-social white wechat"></div></a>
+                                                                    <a href="http://i.youku.com/mouserelectronics" target="_blank" title="优酷" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;Social Media Footer Icon&#39;,&#39;YouKu&#39;,this.href);"><div class="ico-social white youku"></div></a>
+                                                                    <a href="http://www.weibo.com/u/2498646920" target="_blank" title="新浪微博" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;Social Media Footer Icon&#39;,&#39;Sina Weibo&#39;,this.href);"><div class="ico-social white weibo"></div></a>
+                            </div>
+                        <div class="ft_icons_group">
+                                                        <a href="/rssfeeds" title="RSS" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;Social Media Footer Icon&#39;,&#39;RSS&#39;,this.href);"><div class="ico-social white rss"></div></a>
+                        </div>
+                        <div class="ft_icons_group">
+                            <a href="https://www.linkedin.com/company/26041?trk=NUS_CMPY_TWIT" target="_blank" title="LinkedIn" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;Social Media Footer Icon&#39;,&#39;LinkedIn&#39;,this.href);"><div class="ico-social white ln"></div></a>
+                            <a href="/SubscriptionCenter/CreateSubscription.aspx" title="订阅中心" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;Social Media Footer Icon&#39;,&#39;Subscription Center&#39;,this.href);"><div class="ico-social white sb"></div></a>
+                            <a href="/blog" title="Mouser博客" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;Social Media Footer Icon&#39;,&#39;Mouser Blog&#39;,this.href);"><div class="ico-social white blog"></div></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-3 col-sm-3">
+                    <strong class="paddingTop10 paddingBtm10 inline-block">昴氏(上海)电子贸易有限公司</strong>
+                    <ul>
+                        <li>
+                            <h4>
+                                中国上海市长宁区娄山关路555号<br />长房国际广场办公楼2506-2510室<br />邮编200051<br />
+                                <br />
+                                400-821-6111
+                            </h4>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-2 col-sm-2  paddingBtm10">
+                    <strong class="paddingTop10 paddingBtm10 inline-block">公司</strong>
+                    <ul>
+                        <li>
+                            <a href="/aboutus/">关于我们</a>
+                        </li>
+                            <li>
+                                <a href="/educationalsales/">教育销售</a>
+                            </li>
+                        <li>
+                            <a href="/pressroom/">新闻中心</a>
+                        </li>
+                        <li>
+                            <a href="/careers/">Mouser 工作机会</a>
+                        </li>
+                        <li>
+                            <a href="/quality/">品质保证</a>
+                        </li>
+                        <li>
+                            <a href="/environmental/">环境保护</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-2 col-sm-2 ">
+                    <strong class="paddingTop10 paddingBtm10 inline-block">快速链接</strong>
+                    <ul>
+                        <li>
+                            <a href="/blog">Mouser博客</a>
+                        </li>
+                        <li>
+                            <a href="/new/">最新产品</a>
+                        </li>
+                        <li>
+                            <a href="/new/products/">新产品</a>
+                        </li>
+                        <li>
+                            <a href="/applications/">新技术</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-2 col-sm-2 ">
+                    <strong class="paddingTop10 paddingBtm10 inline-block">支持</strong>
+                    <ul>
+                        <li>
+                            <a href="/feedback.aspx">反馈</a>
+                        </li>
+                        <li>
+                            <a href="/help/help.aspx">帮助</a>
+                        </li>
+                        <li>
+                            <a href="/contact/">联系我们</a>
+                        </li>
+                        <li>
+                            <a href="/browsersupport/">浏览器支持</a>
+                        </li>
+                        <li>
+                            <a href="/cookie-policy/">Cookie政策</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid ft_below_box">
+        <div class="row">
+            <div id="ft_copy" class="ft_copy_pos2 col-xs-6 col-sm-6">
+                <span class="ft_terms">
+                            <a class="ft-mobile" href="/m_Home.aspx">通过移动设备查看</a>
+                        &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="/privacypolicy/">隐私政策</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="/saleterms">销售条款</a>
+                    <br />
+                </span>
+                <span class="ft_trade">
+                    <br />
+                    Mouser&#174; 和 Mouser Electronics&#174; 是 Mouser Electronics, Inc 的注册商标。
+                    
+                    公司总部和物流中心，位于美国德州曼斯菲尔德。
+                    <br />
+                </span>
+                <span class="ft_copyright">
+                    <br />
+                    版权所有&#169;2017 Mouser Electronics, Inc
+                        &nbsp;&nbsp;|&nbsp;&nbsp;沪ICP备15042575号-1
+                    <br />
+                    <br />
+                </span>
+            </div>
+            <div id="ft_cert" class="col-xs-6 col-sm-6  align-right">
+                <a href="/ecia/" title="ECIA" class="ft_cert_padding ft_ecia"><img src="/images/footer/logo-ecia_small.png" alt="ECIA" /></a>
+                <a href="/ecia/" title="CEDA" class="ft_cert_padding ft_ceda"><img src="/images/footer/logo-ceda_small.png" alt="CEDA" /></a>
+                <a title="IESA" class="ft_cert_padding ft_ecia" href="/ecia/"><img src="/images/footer/logo-IESA_small.png" alt="IESA"></a>
+                <a class="ft_cert_padding ft_secure" href="https://seal.qualys.com/sealserv/info/?i=c8b29c82-965e-403b-956c-c855241927bb" target="_blank"><img src="//seal.qualys.com/sealserv/seal.gif?i=c8b29c82-965e-403b-956c-c855241927bb" alt="Qualys Secure Seal" oncontextmenu="javascript: alert('Copying Prohibited by Law'); return false;" /></a>
+
+                    <a class="ft_cert_padding ft_sgs" href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=20120329100456493" target="_blank"><img src="/images/footer/icon_SGS.gif" /></a>
+            </div>
+            <div id="ft_cert_2" class="col-xs-6 col-sm-6  align-right">
+                <a href="/nfsb-award/" title="Customer Service Award" class="ft_cert_padding ft_award"><img src="/images/footer/logo-nfsb_small.png" alt="Customer Service Award" /></a>
+                <a href="/quality/" title="ISO9001" class="ft_cert_padding ft_iso"><img src="/images/footer/logo-ISO9001_small.png" alt="ISO9001" /></a>
+                <a href="/as9100C/" title="AS9120A" class="ft_cert_padding ft_as9"><img src="/images/footer/logo-as9120a_small.png" alt="AS9120A" /></a>
+                <a href="/quality/" title="ESD" class="ft_cert_padding ft_esd"><img src="/images/footer/logo-esd_small.png" alt="ESD" /></a>
+            </div>
+        </div>
+    </div>
+
+    <input name="_sb" type="hidden" value="TXWEBVM215|20170317.1" />
+</div>
+
+<script type="text/javascript">var quickSignUpUrl = 'https://sub.info.mouser.com/quick-signup-sc';</script>
+<script type="text/javascript">lpTag.sdes = lpTag.sdes||[]; lpTag.sdes.push({"total":0,"type":"cart","products":[],"numItems":0}); lpTag.sdes.push({"total":0,"type":"purchase","cart":{"products":[]},"orderId":"ec8dc582-f257-4214-90e7-7c107a9b11c4"}); </script> 
+
+
+
+<noscript>
+    <div id="divNeo4jAd">
+        <img src="https://perf.mouser.com/mm/images/N4JMM.gif?rnc=744e7465-0e31-42a2-85b6-58d6cc698cc0&bb=6eDVMnRUfw3byJgY%2bU0%2b%2fKVTJdU1akUNa3FAYThfnXpK6mhMIv0%2bpg%3d%3d&s35h=1P2AXQLX4qVancuCZVPuPfqonZEM7NKhXQPxtKxfEk4%3d&uc=5c804d37-0687-4482-a7e6-1a4e6f485707&cc=ec8dc582-f257-4214-90e7-7c107a9b11c4&lc=zh-CN&pp=http%253a%252f%252fwww.mouser.cn%252fnewsuppliers%252f" alt="" height="1" width="1">
+
+    </div>
+</noscript>
+
+    <div id="qqMarker">
+        <script charset='utf-8' type='text/javascript' src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODAwMTY0Nl84ODAzMF80MDA4MjE2MTExXw"></script>
+    </div>
+
+<script src="../flash/AC_RunActiveContent.js" type="text/javascript"></script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WXX6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXX6');</script>
+
+<script type="text/javascript">var _elqQ = _elqQ || []; _elqQ.push(['elqSetSiteId', '1742027581']); _elqQ.push(['elqTrackPageView']); _elqQ.push(['elqUseFirstPartyCookie', 'elq.mouser.cn']); (function () { function async_load() { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//img03.en25.com/i/elqCfg.min.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); } if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false); else if (window.attachEvent) window.attachEvent('onload', async_load); })();</script>
+</body>
+</html>
